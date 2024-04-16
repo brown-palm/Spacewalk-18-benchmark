@@ -1,0 +1,3313 @@
+{
+    "02282021": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "EV1 & EV2 exit airlock with structure bags",
+            "transcript": "For US EVA seventy one, EV one will egress the joint airlock first. You'll see EV one has the red stripes, and EV two, the white suit. EV two will pass out the two strut bags containing structure to support new solar arrays.",
+            "animation_start": "2006.0",
+            "animation_end": "2017.0"
+        },
+        {
+            "index": 2,
+            "caption": "EV2 move to P1 and install anchor hooks for safety tether",
+            "transcript": "EV two will pass out the two strut bags containing structure to support new solar arrays. Eighty two will head out to p one where he will install the anchor hooks or the crew safety tether. And this is what we call a slingshot and we'll give them a hundred and seventy feet of length that they need to get all the way out to p six.",
+            "animation_start": "2017.0",
+            "animation_end": "2036.0"
+        },
+        {
+            "index": 3,
+            "caption": "EV1 & EV2 move to P6",
+            "transcript": "And this is what we call a slingshot and we'll give them a hundred and seventy feet of length that they need to get all the way out to p six. At that point, both crew members will translate to p six and install their respective bags on the four bravo and two bravo.",
+            "animation_start": "2036.0",
+            "animation_end": "2041.0"
+        },
+        {
+            "index": 4,
+            "caption": "EV1 & EV2 install respective bags on worksites",
+            "transcript": "At that point, both crew members will translate to p six and install their respective bags on the four bravo and two bravo. Worksites.",
+            "animation_start": "2041.0",
+            "animation_end": "2050.0"
+        },
+        {
+            "index": 5,
+            "caption": "EV1 move back inboard",
+            "transcript": "EV one will translate back inboard and retrieve a portable foot restraint. With a extension and head back to join EV two at the two brother worksite.",
+            "animation_start": "2050.0",
+            "animation_end": "2060.0"
+        },
+        {
+            "index": 6,
+            "caption": "EV1 retreive portable foot restraint with extension",
+            "transcript": "With a extension and head back to join EV two at the two brother worksite.",
+            "animation_start": "2060.0",
+            "animation_end": "2062.0"
+        },
+        {
+            "index": 7,
+            "caption": "EV1 return to P6",
+            "transcript": "With a extension and head back to join EV two at the two brother worksite.",
+            "animation_start": "2062.0",
+            "animation_end": "2065.0"
+        },
+        {
+            "index": 8,
+            "caption": "EV1 set up portable foot restraint",
+            "transcript": "EV1 will set up this portable foot restraint or access to the mod kit installed and then translate over to the bag where both crew members will begin building what we call the upper triangle, which includes the mounting bracket and leftstrut and a right strut.",
+            "animation_start": "2065.0",
+            "animation_end": "2070.0"
+        },
+        {
+            "index": 9,
+            "caption": "EV1 move to structure bag",
+            "transcript": "EV1 will set up this portable foot restraint or access to the mod kit installed and then translate over to the bag where both crew members will begin building what we call the upper triangle, which includes the mounting bracket and leftstrut and a right strut.",
+            "animation_start": "2070.0",
+            "animation_end": "2074.0"
+        },
+        {
+            "index": 10,
+            "caption": "EV1 & EV2 build \"upper triangle\" ",
+            "transcript": "EV1 will set up this portable foot restraint or access to the mod kit installed and then translate over to the bag where both crew members will begin building what we call the upper triangle, which includes the mounting bracket and leftstrut and a right strut. They'll use their pistol grip tool to assemble that triangle.",
+            "animation_start": "2074.0",
+            "animation_end": "2088.0"
+        },
+        {
+            "index": 11,
+            "caption": "EV1 enter portable foot restraint",
+            "transcript": "Once it's complete, EV one all be in the portable foot restraint and EV two will hand it off to EV one.",
+            "animation_start": "2088.0",
+            "animation_end": "2091.0"
+        },
+        {
+            "index": 12,
+            "caption": "EV2 hand upper triangle to EV1",
+            "transcript": "Once it's complete, EV one all be in the portable foot restraint and EV two will hand it off to EV one.",
+            "animation_start": "2091.0",
+            "animation_end": "2095.0"
+        },
+        {
+            "index": 13,
+            "caption": "EV1 install upper triangle on mast canister",
+            "transcript": "Here you see EV one installing this on the mass canister. And there's a strong soft dock feature that will hold it in place. Once it's positioned in place, even one will use the pistol grip tool to drive four bolts.",
+            "animation_start": "2095.0",
+            "animation_end": "2109.0"
+        },
+        {
+            "index": 14,
+            "caption": "EV1 reposition foot restraint",
+            "transcript": "One will then reposition the foot restraint for access to the left side of the mok kit.",
+            "animation_start": "2109.0",
+            "animation_end": "2116.0"
+        },
+        {
+            "index": 15,
+            "caption": "EV2 hand mid strut to EV1. EV1 installs on body tether",
+            "transcript": "One will then reposition the foot restraint for access to the left side of the mok kit. Here you see the mid strut on EB one's body restraint tether.",
+            "animation_start": "2116.0",
+            "animation_end": "2122.0"
+        },
+        {
+            "index": 16,
+            "caption": "EV1 & EV2 install left lower strut",
+            "transcript": "Here you see the mid strut on EB one's body restraint tether. EB one will hold the lower strut while EB two gets into position. Now work together to install the left lower strut. EV two will start off by driving the bolt with his pistol grip tool, and EV one will drive the upper bolt that connects it to the mounting bracket.",
+            "animation_start": "2122.0",
+            "animation_end": "2141.0"
+        },
+        {
+            "index": 17,
+            "caption": "EV1 & EV2 install mid strut on left side of mast canister",
+            "transcript": "EV two will start off by driving the bolt with his pistol grip tool, and EV one will drive the upper bolt that connects it to the mounting bracket. I'll then work together to install the mid strip on the left side You can see EV two driving four bolts that hold it to the mass canister. Similar to the h fixtures that were recently removed. And EV one will drive the bolt to secure it to the upper strut.",
+            "animation_start": "2141.0",
+            "animation_end": "2163.0"
+        },
+        {
+            "index": 18,
+            "caption": "EV1 reposition foot restraint",
+            "transcript": "And one will then reposition the APFR and get back in after getting the mid strap on her BRT.",
+            "animation_start": "2163.0",
+            "animation_end": "2168.0"
+        },
+        {
+            "index": 19,
+            "caption": "EV1 attach mid strut to body tether and enter foot restraint",
+            "transcript": "And one will then reposition the APFR and get back in after getting the mid strap on her BRT. Near teas standing for body restraint tether.",
+            "animation_start": "2168.0",
+            "animation_end": "2181.0"
+        },
+        {
+            "index": 20,
+            "caption": "EV1 receive right lower strut",
+            "transcript": "So get back into the portable foot restraint. Receive the right lower strap.",
+            "animation_start": "2181.0",
+            "animation_end": "2189.0"
+        },
+        {
+            "index": 21,
+            "caption": "EV2 move to installation point for right lower strut",
+            "transcript": "And then EV two will translate around the mass canister for access to the installation point for the right lower strut.",
+            "animation_start": "2189.0",
+            "animation_end": "2197.0"
+        },
+        {
+            "index": 22,
+            "caption": "EV1 & EV2 install mid strut on right side of mast canister",
+            "transcript": "Again, just like the left side, they'll be working together to drive their respective bolts with their pistol grip tool.",
+            "animation_start": "2197.0",
+            "animation_end": "2209.0"
+        },
+        {
+            "index": 23,
+            "caption": "EV1 & EV2 install mid strut",
+            "transcript": "EV two will translate up for the mid strut install. Or he'll drive four bolts. EV one will have a single bolt. And the EV two will tighten the clamp bolts on both sides. The mid strengths are telescoping, and this clamp bolt prevents it from telescoping any curve there once it's in place.",
+            "animation_start": "2209.0",
+            "animation_end": "2233.0"
+        },
+        {
+            "index": 24,
+            "caption": "EV1 & EV2 install thermal blanket and verify pit pins are in place",
+            "transcript": "Accrual then work together to secure the thermal blankets over all of the struts and make sure their employees as well as verifying that the pit pins that provide grounding pads for the structure are also in place.",
+            "animation_start": "2233.0",
+            "animation_end": "2247.0"
+        },
+        {
+            "index": 25,
+            "caption": "EV1 & EV1 grab tools and move to 4B work site",
+            "transcript": "They'll then grab the necessary tools and head over to the four bravo worksite. Very similar kind of a mirror image to what they were working on previously.",
+            "animation_start": "2247.0",
+            "animation_end": "2258.0"
+        },
+        {
+            "index": 26,
+            "caption": "EV1 install portable foot restraint",
+            "transcript": "EV1 will install the APFR or the portable foot restraint.",
+            "animation_start": "2258.0",
+            "animation_end": "2263.0"
+        },
+        {
+            "index": 27,
+            "caption": "EV1 & EV2 build \"upper triangle\" ",
+            "transcript": "And they'll work together again to build the upper triangle consisting of the two upper struts and the mounting bracket.",
+            "animation_start": "2263.0",
+            "animation_end": "2275.0"
+        },
+        {
+            "index": 28,
+            "caption": "EV1 & EV2 pack bag with tools to bring inside",
+            "transcript": "If not, we have plans to perform the rest of the install. On the next EVA. The crew will then pack the empty bag with the tools that they plan to bring inside.",
+            "animation_start": "2318.0",
+            "animation_end": "2326.0"
+        },
+        {
+            "index": 29,
+            "caption": "EV1 & EV2 return to airlock with bag",
+            "transcript": "EV two will carry that back to the airlock. Both crew members will translate back to the airlock from p six. They'll leave the slingshot out, meaning that the tethers will be strung out to p one because we'll use them again on a future EVA.",
+            "animation_start": "2326.0",
+            "animation_end": "2343.0"
+        },
+        {
+            "index": 30,
+            "caption": "EV2 put bag in airlock and enter",
+            "transcript": "They'll leave the slingshot out, meaning that the tethers will be strung out to p one because we'll use them again on a future EVA. EV two will put the bag in the airlock in ingress followed by EV one we will then close the hatch.",
+            "animation_start": "2343.0",
+            "animation_end": "2349.0"
+        },
+        {
+            "index": 31,
+            "caption": "EV1 enter airlock and close hatch",
+            "transcript": "EV two will put the bag in the airlock in ingress followed by EV one we will then close the hatch.",
+            "animation_start": "2349.0",
+            "animation_end": "2354.0"
+        }
+    ],
+    "03152022": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "EV1 exit airlock and receive large bag",
+            "transcript": "US Space Walk. Number seventy nine will begin at the Quest Airlock. US astronaut, Kayla Barron, maybe one denoted by the red stripes, split egress first and received a very large Arun saum leakage bag, US astronaut Rajatari in the plain white suit will egress second with the crew lock bag.",
+            "animation_start": "1435.0",
+            "animation_end": "1446.0"
+        },
+        {
+            "index": 2,
+            "caption": "EV2 exit airlock",
+            "transcript": "US astronaut, Kayla Barron, maybe one denoted by the red stripes, split egress first and received a very large Arun saum leakage bag, US astronaut Rajatari in the plain white suit will egress second with the crew lock bag.",
+            "animation_start": "1446.0",
+            "animation_end": "1451.0"
+        },
+        {
+            "index": 3,
+            "caption": "EV1 move to integrated equipment assembly",
+            "transcript": "US astronaut, Kayla Barron, maybe one denoted by the red stripes, split egress first and received a very large Arun saum leakage bag, US astronaut Rajatari in the plain white suit will egress second with the crew lock bag. After quick buddy checks, EV one will head up to phase one and out to the s four integrated equipment assembly pausing momentarily to drop her fairlead green hook, just inboard of the solar alpha rotary joint and then continue her translation out to the s four three alpha integrated equipment assembly where she will stow the large Erosa mod kit strip bag and prep for the building of the upper triangle of the mod kit.",
+            "animation_start": "1451.0",
+            "animation_end": "1471.0"
+        },
+        {
+            "index": 4,
+            "caption": "EV1 stow bag and begin prep work",
+            "transcript": "After quick buddy checks, EV one will head up to phase one and out to the s four integrated equipment assembly pausing momentarily to drop her fairlead green hook, just inboard of the solar alpha rotary joint and then continue her translation out to the s four three alpha integrated equipment assembly where she will stow the large Erosa mod kit strip bag and prep for the building of the upper triangle of the mod kit.",
+            "animation_start": "1471.0",
+            "animation_end": "1478.0"
+        },
+        {
+            "index": 5,
+            "caption": "EV2 move to phase 1",
+            "transcript": "After quick buddy checks, EV one will head up to phase one and out to the s four integrated equipment assembly pausing momentarily to drop her fairlead green hook, just inboard of the solar alpha rotary joint and then continue her translation out to the s four three alpha integrated equipment assembly where she will stow the large Erosa mod kit strip bag and prep for the building of the upper triangle of the mod kit. Meanwhile, EV two will follow EV one up to phase one Eighty two will stop at the Starbird's CETA cart where he will temp stow a crew lock bag of tools and retrieve a footwear straight and a work site interface extender known as a WIFAC and then translate outboard pausing momentarily to drop his fairly green hook just inboard of the Solar Alpha Row three joint.",
+            "animation_start": "1478.0",
+            "animation_end": "1482.0"
+        },
+        {
+            "index": 6,
+            "caption": "EV2 stow crew bag and retrieve tools",
+            "transcript": "Meanwhile, EV two will follow EV one up to phase one Eighty two will stop at the Starbird's CETA cart where he will temp stow a crew lock bag of tools and retrieve a footwear straight and a work site interface extender known as a WIFAC and then translate outboard pausing momentarily to drop his fairly green hook just inboard of the Solar Alpha Row three joint.",
+            "animation_start": "1482.0",
+            "animation_end": "1491.0"
+        },
+        {
+            "index": 7,
+            "caption": "EV1 & EV2 assemble upper triangle",
+            "transcript": "EV one and EV two will work together to build the upper triangle. The crew will build the triangular segment loosely, and then we'll tighten up the structure by driving the bolts to torque.",
+            "animation_start": "1522.0",
+            "animation_end": "1532.0"
+        },
+        {
+            "index": 8,
+            "caption": "EV2 move to and enter foot restraint",
+            "transcript": "The crew will build the triangular segment loosely, and then we'll tighten up the structure by driving the bolts to torque. EV two will then translate over to and ingress the footrest straight.",
+            "animation_start": "1532.0",
+            "animation_end": "1536.0"
+        },
+        {
+            "index": 9,
+            "caption": "EV1 hand upper triangle to EV2",
+            "transcript": "EV two will then translate over to and ingress the footrest straight. EV one will reposition for the hand off. Maybe one will hand up the upper triangle to EV two.",
+            "animation_start": "1536.0",
+            "animation_end": "1541.0"
+        },
+        {
+            "index": 10,
+            "caption": "EV2 dock upper triangle on gimbal assembly",
+            "transcript": "Maybe one will hand up the upper triangle to EV two. EV two will lay back and work to soft dock the segment onto the beta gimbal assembly and then drive four bowl.",
+            "animation_start": "1541.0",
+            "animation_end": "1548.0"
+        },
+        {
+            "index": 11,
+            "caption": "EV1 stow pistol grip tool (PGT)",
+            "transcript": "EV two will lay back and work to soft dock the segment onto the beta gimbal assembly and then drive four bowl. EV one will temp stow her PGT with a short socket on a local handrail, while EV two will egress the up restraint and bias it to the left hand side.",
+            "animation_start": "1548.0",
+            "animation_end": "1553.0"
+        },
+        {
+            "index": 12,
+            "caption": "EV2 exit foot restraint and tilt it to the left side",
+            "transcript": "EV one will temp stow her PGT with a short socket on a local handrail, while EV two will egress the up restraint and bias it to the left hand side. EV one will go over to the back and retrieve the left mid stretch.",
+            "animation_start": "1553.0",
+            "animation_end": "1559.0"
+        },
+        {
+            "index": 13,
+            "caption": "EV1 pass left mid strut to EV2",
+            "transcript": "EV one will go over to the back and retrieve the left mid stretch. Work to pass this off to EV two or a body restraint tether stow.",
+            "animation_start": "1559.0",
+            "animation_end": "1568.0"
+        },
+        {
+            "index": 14,
+            "caption": "EV1 hands lower strut to EV2",
+            "transcript": "EV two will then re ingress the foot restraint while EV one retrieves the long eight foot lower stretch from the bag and hands it to v two.",
+            "animation_start": "1571.0",
+            "animation_end": "1578.0"
+        },
+        {
+            "index": 15,
+            "caption": "EV1 & EV2 install lower strut",
+            "transcript": "EV two will then re ingress the foot restraint while EV one retrieves the long eight foot lower stretch from the bag and hands it to v two. While e v two holds the long lower stretch, e v one will reposition to the Solar Array blanket box for Saab for the install of the left lower strut. As a team, the crew will move the strut into position, and EV one will begin at driving this bolt by hand four turns. EV two will then work to align and drive his bolt on the mounting bracket side to turn. And then EV one will work to re the torque on this bolts by driving with a pistol grip tool to a high torque, and then following with an even higher torque on the torque wrench once the bolt is deemed good, EV two will be given a go to drive his bolts to torque using the pistol grip tool and this complete arm minimum config EV one will reposition to the beta gimbal assembly, and EV two will hand off the telescoping mid strip for install.",
+            "animation_start": "1578.0",
+            "animation_end": "1620.0"
+        },
+        {
+            "index": 16,
+            "caption": "EV1 & EV2 install mid strut",
+            "transcript": "And then EV one will work to re the torque on this bolts by driving with a pistol grip tool to a high torque, and then following with an even higher torque on the torque wrench once the bolt is deemed good, EV two will be given a go to drive his bolts to torque using the pistol grip tool and this complete arm minimum config EV one will reposition to the beta gimbal assembly, and EV two will hand off the telescoping mid strip for install. EV one will work to soft dock the side pad onto the BTA. While EV two bolts his the best bolt side in place, EV one will start her four bolt, two turns with the pistol grip tool, and then EV two will drive his club this bolt to torque on the mounting bracket. EV one will then complete her four bolts with our pistol grip tool, and then EV two will drive his bolts to torque. EV two will then egress and reposition the foot restraint to bias it to the right hand side.",
+            "animation_start": "1620.0",
+            "animation_end": "1650.0"
+        },
+        {
+            "index": 17,
+            "caption": "EV2 exit foot restraint and tilt it to the right side",
+            "transcript": "EV two will then egress and reposition the foot restraint to bias it to the right hand side.",
+            "animation_start": "1650.0",
+            "animation_end": "1657.0"
+        },
+        {
+            "index": 18,
+            "caption": "EV1 hand right mid strut to EV2",
+            "transcript": "The mod kit, the crew will then repeat the hand off sequence first in mid strat for body strengths to their stow, foot restraint in grip followed by handoff of the very long lower right strap.",
+            "animation_start": "1657.0",
+            "animation_end": "1667.0"
+        },
+        {
+            "index": 19,
+            "caption": "EV1 & EV2 install lower strut",
+            "transcript": "And an analogous install on strategy will unfold, maybe one position at the right stop bearing for lower strut install and drive the lower strut bolt to torque. EV one will drive his clevis bolts to the mounting brackets.",
+            "animation_start": "1674.0",
+            "animation_end": "1688.0"
+        },
+        {
+            "index": 20,
+            "caption": "EV1 & EV2 install mid strut",
+            "transcript": "EV one will drive his clevis bolts to the mounting brackets. EV one will then reposition at the BGA, and they will hand off the right telescoping bench stretch following the same as cell strategy. Once the Complete TV One will translate onto the mid stretch and drive two color bulbs to torque to lock out the hologoping mechanism and rigidize the right hand side. EV two will then egress the foot restraint and begin to clean up.",
+            "animation_start": "1688.0",
+            "animation_end": "1705.0"
+        },
+        {
+            "index": 21,
+            "caption": "EV1 finish mid strut install",
+            "transcript": "EV two will then egress the foot restraint and begin to clean up. Once the multilayer installation or MLI is fully closed and wired by down. EV one will reposition to repeat the collar bolt and MOI ops on the left hand side.",
+            "animation_start": "1708.0",
+            "animation_end": "1719.0"
+        },
+        {
+            "index": 22,
+            "caption": "EV2 move to bag and stow tools",
+            "transcript": "EV one will reposition to repeat the collar bolt and MOI ops on the left hand side. EV two will then transfer plate around the integrated equipment assembly and stow the tools back in the bag. You'll then pull it in the third ready for translation in later in the EVA.",
+            "animation_start": "1719.0",
+            "animation_end": "1728.0"
+        },
+        {
+            "index": 23,
+            "caption": "EV2 return to worksite and stow tools on body restraint tether",
+            "transcript": "You'll then pull it in the third ready for translation in later in the EVA. EV two will then translate back around the IEA to the foot restraint and work to stir the foot restraint and the worksite into basic extender on his body restraint tether.",
+            "animation_start": "1728.0",
+            "animation_end": "1738.0"
+        },
+        {
+            "index": 24,
+            "caption": "EV1 take pictures of completed mod kit",
+            "transcript": "EV two will then translate back around the IEA to the foot restraint and work to stir the foot restraint and the worksite into basic extender on his body restraint tether. EV one, the meanwhile, will translate over to the non radiator side of the IE it takes some still imagery of the completed mod kit.",
+            "animation_start": "1738.0",
+            "animation_end": "1747.0"
+        },
+        {
+            "index": 25,
+            "caption": "EV1 move to battery charge/discharge unit and begin prep work",
+            "transcript": "EV one, the meanwhile, will translate over to the non radiator side of the IE it takes some still imagery of the completed mod kit. EV one will then translate out to s six to our battery charge discharge unit. She will begin installing some wire ties on a handrail and prep for restraining the MLI or multi layer insulation that covers the battery charge discharge unit Meanwhile, EV two will translate out to the starboard seated cart to stow the foot restraint and worksite's interface extender low profile on the starboard seating cart.",
+            "animation_start": "1747.0",
+            "animation_end": "1761.0"
+        },
+        {
+            "index": 26,
+            "caption": "EV2 translate to CETA cart and stow tools",
+            "transcript": "She will begin installing some wire ties on a handrail and prep for restraining the MLI or multi layer insulation that covers the battery charge discharge unit Meanwhile, EV two will translate out to the starboard seated cart to stow the foot restraint and worksite's interface extender low profile on the starboard seating cart.",
+            "animation_start": "1761.0",
+            "animation_end": "1771.0"
+        },
+        {
+            "index": 27,
+            "caption": "EV2 retreive crew lock bag and move to EV1",
+            "transcript": "She will begin installing some wire ties on a handrail and prep for restraining the MLI or multi layer insulation that covers the battery charge discharge unit Meanwhile, EV two will translate out to the starboard seated cart to stow the foot restraint and worksite's interface extender low profile on the starboard seating cart. EV two will then retrieve the crew lock bag onto his body restraint tether and head back out to s six to join eighty one.",
+            "animation_start": "1771.0",
+            "animation_end": "1778.0"
+        },
+        {
+            "index": 28,
+            "caption": "EV1 & EV2 fold and restrain insulation",
+            "transcript": "This will allow for robotic access when needed in the future. They'll perform some fun orbit or gummy, port it to the shape of a triangle, and restrain it out with a wire tie to a little handrail. The crew will then work to break torque First on h one followed by h two and then restrain the other MLI back to open and expose the second battery charge to discharge units and then work to break torque and reinstall to a known lower torque on the second battery charge discharge unit.",
+            "animation_start": "1789.0",
+            "animation_end": "1811.0"
+        },
+        {
+            "index": 29,
+            "caption": "EV1 & EV2 break torque and reinstall",
+            "transcript": "First on h one followed by h two and then restrain the other MLI back to open and expose the second battery charge to discharge units and then work to break torque and reinstall to a known lower torque on the second battery charge discharge unit.",
+            "animation_start": "1811.0",
+            "animation_end": "1818.0"
+        },
+        {
+            "index": 30,
+            "caption": "EV1 & EV2 clean up and retrieve crew bag",
+            "transcript": "Both crew then will clean up and retrieve the crew lock bag to the PRT or body restraint tether and begin to head inboard the completion of the EVA.",
+            "animation_start": "1818.0",
+            "animation_end": "1825.0"
+        },
+        {
+            "index": 31,
+            "caption": "EV2 return to airlock",
+            "transcript": "Both crew then will clean up and retrieve the crew lock bag to the PRT or body restraint tether and begin to head inboard the completion of the EVA. EV two will lead the way in since he led with second outboard. And then across the IEA, retrieve his fairly green hook. Translate under the MT and at the speed of handrail bridge, translate nadir down to our airlock.",
+            "animation_start": "1825.0",
+            "animation_end": "1846.0"
+        },
+        {
+            "index": 32,
+            "caption": "EV1 return to airlock",
+            "transcript": "Translate under the MT and at the speed of handrail bridge, translate nadir down to our airlock. EV one in the meanwhile will translate to the S4 IEA, retrieve the folded up mod kit bag grab her fairly the green hook, translate past the CETA cart, hitting those brake pedals, down the CETA handrail bridge and to the airlock. Including a very successful US spacewalk number seventy nine.",
+            "animation_start": "1846.0",
+            "animation_end": "1869.0"
+        }
+    ],
+    "03232022": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "EV2 goes to CETA cart and stows bag",
+            "transcript": "Egress the crew lock with two bags. EV two goes to the forward phase of the station, then port to a crew equipment translation aid. Cart. EV two stows the tool bag, while EV one follows the same path.",
+            "animation_start": "1427.0",
+            "animation_end": "1441.0"
+        },
+        {
+            "index": 2,
+            "caption": "EV1 follows EV2's path",
+            "transcript": "EV two stows the tool bag, while EV one follows the same path.",
+            "animation_start": "1441.0",
+            "animation_end": "1451.0"
+        },
+        {
+            "index": 3,
+            "caption": "EV1 retrieves portable foot restraint",
+            "transcript": "EV one, which we use a portable foot restraint, and installs it in the robotic arm.",
+            "animation_start": "1451.0",
+            "animation_end": "1455.0"
+        },
+        {
+            "index": 4,
+            "caption": "EV1 installs foot restraint on robotic arm",
+            "transcript": "EV one, which we use a portable foot restraint, and installs it in the robotic arm. After EV one ingresses the foot restraint, the robotic arm operator, five sec crew member, to the most inboard port radiator beam valve module worksite.",
+            "animation_start": "1455.0",
+            "animation_end": "1459.0"
+        },
+        {
+            "index": 5,
+            "caption": "EV1 enters foot restraint and is transported to worksite",
+            "transcript": "After EV one ingresses the foot restraint, the robotic arm operator, five sec crew member, to the most inboard port radiator beam valve module worksite. Meanwhile, EV two follows the nadir handrail path and picks up a previous deployed cable reel bag.",
+            "animation_start": "1459.0",
+            "animation_end": "1474.0"
+        },
+        {
+            "index": 6,
+            "caption": "EV2 picks up cable bag",
+            "transcript": "Meanwhile, EV two follows the nadir handrail path and picks up a previous deployed cable reel bag.",
+            "animation_start": "1474.0",
+            "animation_end": "1484.0"
+        },
+        {
+            "index": 7,
+            "caption": "EV2 deploys ethernet cable",
+            "transcript": "EV two deploys the ethernet cable along the handrails, then translates zenith to the camera port eight worksite. The end of the cable is pre positioned at the camera extension base for later in the EVA.",
+            "animation_start": "1484.0",
+            "animation_end": "1508.0"
+        },
+        {
+            "index": 8,
+            "caption": "EV2 returns bag to CETA cart and goes to US laboratory module",
+            "transcript": "EV two retraces the path back to the crew equipment translation aid cart drops off the now empty real bag and takes a different bag to the US laboratory. Module.",
+            "animation_start": "1508.0",
+            "animation_end": "1527.0"
+        },
+        {
+            "index": 9,
+            "caption": "EV2 takes cable adapter from tool bag and moves to worksite",
+            "transcript": "EV two takes a cable adapter from the tool bag and translate to the starboard income of the European Space Agency's Columbus module.",
+            "animation_start": "1527.0",
+            "animation_end": "1543.0"
+        },
+        {
+            "index": 10,
+            "caption": "EV2 installs jumper",
+            "transcript": "EV two installs the jumper, which passes power and data from Columbus to the Bartolomeo external platform.",
+            "animation_start": "1543.0",
+            "animation_end": "1555.0"
+        },
+        {
+            "index": 11,
+            "caption": "EV2 close thermal flap and secure it",
+            "transcript": "A section of the thermal blanket has flipped open, and EV two will close the flap and secure it to handrails with a wire tie.",
+            "animation_start": "1585.0",
+            "animation_end": "1597.0"
+        },
+        {
+            "index": 12,
+            "caption": "EV2 returns to US laboratory module",
+            "transcript": "V two returns to the bag on the US laboratory module.",
+            "animation_start": "1597.0",
+            "animation_end": "1606.0"
+        },
+        {
+            "index": 13,
+            "caption": "EV2 meets EV1 at worksite with camera",
+            "transcript": "B two meets EV one at the camera port worksite. After retrieving the new wireless access port capable external high definition camera from the crew lock.",
+            "animation_start": "1644.0",
+            "animation_end": "1659.0"
+        },
+        {
+            "index": 14,
+            "caption": "EV1 & EV2 swap tool bags",
+            "transcript": "The two crew members exchanged tool bags, After which EV two takes EV one's to a bag back to the crew equipped translation aid cart and stows it.",
+            "animation_start": "1659.0",
+            "animation_end": "1663.0"
+        },
+        {
+            "index": 15,
+            "caption": "EV1 replace old camera with new one",
+            "transcript": "While EP two was retorquing the four alpha bolts, EV one replaced the existing external high definition camera. With one that provides improved two way high data rate communications between external payloads and earth.",
+            "animation_start": "1706.0",
+            "animation_end": "1728.0"
+        },
+        {
+            "index": 16,
+            "caption": "EV1 installs strap to hold cable in place",
+            "transcript": "To ensure the new wireless access port cable, does not interfere with the new camera group's ability to pan and tilt. The crew installs a strap to hold the cable in place.",
+            "animation_start": "1728.0",
+            "animation_end": "1742.0"
+        },
+        {
+            "index": 17,
+            "caption": "EV2 mates wireless cable to ethernet cable",
+            "transcript": "EV two makes the wireless cable to the ethernet cable grouted earlier in the EBA. After the camera change out is complete, EV one is flown to the nadir side of station.",
+            "animation_start": "1742.0",
+            "animation_end": "1763.0"
+        },
+        {
+            "index": 18,
+            "caption": "EV1 flown to new worksite",
+            "transcript": "After the camera change out is complete, EV one is flown to the nadir side of station. To the port radiator grapple bar worksite.",
+            "animation_start": "1763.0",
+            "animation_end": "1770.0"
+        },
+        {
+            "index": 19,
+            "caption": "EV1 is returned to forward face and exits foot restraint",
+            "transcript": "EP one is then returned to the forward face of the space station, egresses the robotic arm, And returns the foot restraint to the port cart while EV one performs the t handle tool installation.",
+            "animation_start": "1790.0",
+            "animation_end": "1805.0"
+        },
+        {
+            "index": 20,
+            "caption": "EV2 moves to panel on F side of truss",
+            "transcript": "And returns the foot restraint to the port cart while EV one performs the t handle tool installation. EV two translates to a panel on the f side of the truss.",
+            "animation_start": "1805.0",
+            "animation_end": "1815.0"
+        },
+        {
+            "index": 21,
+            "caption": "EV2 moves electrical connector",
+            "transcript": "EV two translates to a panel on the f side of the truss. EV two moves an electrical connector from a non functional connector to a cable which can provide power.",
+            "animation_start": "1815.0",
+            "animation_end": "1824.0"
+        },
+        {
+            "index": 22,
+            "caption": "EV2 picks up tool bags",
+            "transcript": "EV two then picks up tool bags and returns them back to the airlock.",
+            "animation_start": "1824.0",
+            "animation_end": "1829.0"
+        },
+        {
+            "index": 23,
+            "caption": "EV2 retrieves bag",
+            "transcript": "After EV two, retrieves another hardware bag from the crew lock.",
+            "animation_start": "1844.0",
+            "animation_end": "1851.0"
+        },
+        {
+            "index": 24,
+            "caption": "EV1 picks up remaining bags and returns to crew-lock",
+            "transcript": "If you want, picks up the remaining tool bags, and depending on timing, returns to the crew lock, or assist EV two in routing the cable, zenith, to the pump module.",
+            "animation_start": "1878.0",
+            "animation_end": "1895.0"
+        },
+        {
+            "index": 25,
+            "caption": "EV1 & EV2 return to airlock and egress",
+            "transcript": "This completes the plan tests for the radiator beam valve module jumper install EVA. Crew returned to the crew lock and ingress.",
+            "animation_start": "1895.0",
+            "animation_end": "1914.0"
+        }
+    ],
+    "06092023": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "EV1 & EV2 exit airlock",
+            "transcript": "This video is for the IsisS roll out solar ray or Irosa, one a, and Stolie VA. Steve Bowen, EV one, with the red stripes, egresses and receives a crew lock bag and puts it on his body restraint tether. EV two with white stripes, Whitney Hoberg, egresses with the acrylic bag on his body restraint tether and closes the thermal cover.",
+            "animation_start": "1056.0",
+            "animation_end": "1079.0"
+        },
+        {
+            "index": 2,
+            "caption": "EV1 & EV2 move starboard",
+            "transcript": "EV one translates up the forward face of the truss and goes starboard. He stops to configure safety tether EV two follows a similar translation path and goes to the port, crew equipment, translation aid cart, to temporarily stow his bag and retrieve an articulating portable foot restraint.",
+            "animation_start": "1079.0",
+            "animation_end": "1092.0"
+        },
+        {
+            "index": 3,
+            "caption": "EV2 stow bag and retreive foot restraint",
+            "transcript": "He stops to configure safety tether EV two follows a similar translation path and goes to the port, crew equipment, translation aid cart, to temporarily stow his bag and retrieve an articulating portable foot restraint.",
+            "animation_start": "1092.0",
+            "animation_end": "1097.0"
+        },
+        {
+            "index": 4,
+            "caption": "EV1 moves to iROSA carrier, stows bag, and retrievs drill",
+            "transcript": "He stops to configure safety tether EV two follows a similar translation path and goes to the port, crew equipment, translation aid cart, to temporarily stow his bag and retrieve an articulating portable foot restraint. Meanwhile, EV one translates to thyrosa carrier, stows his bag, and retrieves his pistol grip tool.",
+            "animation_start": "1097.0",
+            "animation_end": "1105.0"
+        },
+        {
+            "index": 5,
+            "caption": "EV1 begins preparing iROSA for removal",
+            "transcript": "EV one begins preparing Irosa for removal from the carrier, first releasing a restraint bolt on the upper Irosa.",
+            "animation_start": "1105.0",
+            "animation_end": "1112.0"
+        },
+        {
+            "index": 6,
+            "caption": "EV2 attaches foot restraint to robotic arm and enters it",
+            "transcript": "EV two relocates the foot restraint and installs it on the space station's robotic arm. EV two ingresses the foot restraint, and then the arm will move them away from the truss.",
+            "animation_start": "1112.0",
+            "animation_end": "1125.0"
+        },
+        {
+            "index": 7,
+            "caption": "EV1 removes bolts and stows them in bag",
+            "transcript": "EV two ingresses the foot restraint, and then the arm will move them away from the truss. EV one translates to the lower rosa and releases its first restraint bulb. He releases both anti rotation devices back on the upper eye rosa, and then will stow them in the crew lock bag. On the robotic arm, EV two is flown over to access two sets of volts on the boom end of the upper Irosa.",
+            "animation_start": "1125.0",
+            "animation_end": "1146.0"
+        },
+        {
+            "index": 8,
+            "caption": "EV2 release bolts on iROSA",
+            "transcript": "On the robotic arm, EV two is flown over to access two sets of volts on the boom end of the upper Irosa. The first two bolts will allow the boom deployment system rollers to be moved into place to help with the array deployment later in the spacewalk. The second two bolts will release two of four mechanisms that hold the erosa and its roll configuration.",
+            "animation_start": "1146.0",
+            "animation_end": "1175.0"
+        },
+        {
+            "index": 9,
+            "caption": "EV1 install handling aids and preps to remove iROSA",
+            "transcript": "EV one partially releases the upper eye rosas restraint bolt and installs the first of two handling aids called scoops, and prep for removing Irosa from the carrier.",
+            "animation_start": "1175.0",
+            "animation_end": "1185.0"
+        },
+        {
+            "index": 10,
+            "caption": "EV1 & EV2 release iROSA",
+            "transcript": "EV one partially releases the upper eye rosas restraint bolt and installs the first of two handling aids called scoops, and prep for removing Irosa from the carrier. The arm flies EV two over to the hinge end of the upper Irosa and both crew members work to release the final bolt holding it to the carrier. EV one installs a second scoop, an EV two lifts the IRosa off with the carrier.",
+            "animation_start": "1185.0",
+            "animation_end": "1200.0"
+        },
+        {
+            "index": 11,
+            "caption": "EV2 takes iROSA to mod kit worksite",
+            "transcript": "After several maneuvers on the robotic arm, EV two will arrive at the one a mod kit work site.",
+            "animation_start": "1209.0",
+            "animation_end": "1216.0"
+        },
+        {
+            "index": 12,
+            "caption": "EV1 reconfigure tethers while moving to mod kit worksite",
+            "transcript": "During these maneuvers, EV one will pick up the temporarily stowed bag from the port cart and reconfigure both crew's safety tethers. On his way to meet e b two at the Mod kit.",
+            "animation_start": "1216.0",
+            "animation_end": "1234.0"
+        },
+        {
+            "index": 13,
+            "caption": "EV1 & EV2 work to install iROSA",
+            "transcript": "Both crew will then work to install Irosa onto the one a mounting bracket.",
+            "animation_start": "1234.0",
+            "animation_end": "1245.0"
+        },
+        {
+            "index": 14,
+            "caption": "EV1 & EV2 prep to unfold iROSA",
+            "transcript": "The crew will release the scoops and EV two will move into position to release the final bolt holding Irosa in its folded position.",
+            "animation_start": "1245.0",
+            "animation_end": "1254.0"
+        },
+        {
+            "index": 15,
+            "caption": "EV1 holds iROSA while EV2 exits foot restraint",
+            "transcript": "Once released, EV one will hold Irosa close while EV two egresses his foot restraint and gets into position.",
+            "animation_start": "1254.0",
+            "animation_end": "1260.0"
+        },
+        {
+            "index": 16,
+            "caption": "EV1 & EV2 unfold iROSA and secure it to mounting bracket",
+            "transcript": "Once released, EV one will hold Irosa close while EV two egresses his foot restraint and gets into position. Both crew will then work together to unfold Irosa and secure the right side onto the mounting bracket. Once secured, EV two will drive two hinge bolts that hold Irosa in the unfolded position.",
+            "animation_start": "1260.0",
+            "animation_end": "1274.0"
+        },
+        {
+            "index": 17,
+            "caption": "EV2 move away from iROSA and reconfigure safety tether",
+            "transcript": "EV two will then move away from myrosa to reconfigure a safety tether on the arm.",
+            "animation_start": "1274.0",
+            "animation_end": "1279.0"
+        },
+        {
+            "index": 18,
+            "caption": "EV1 fully secures iROSA to mounting bracket",
+            "transcript": "EV two will then move away from myrosa to reconfigure a safety tether on the arm. EV one works to drive eight bolts to fully secure the Irosa to the mounting bracket.",
+            "animation_start": "1279.0",
+            "animation_end": "1288.0"
+        },
+        {
+            "index": 19,
+            "caption": "EV1 & EV2 electronically connect iROSA to ISS power system",
+            "transcript": "Both crew will then work to electrically connect the new Irosa to the ISS power system. They'll first attach four connectors to Irosa, then both will move to either side of legacy array to disconnect the old array and connect a white cable. This will allow power to flow from both the new Irosa and the legacy array to the space station power system.",
+            "animation_start": "1288.0",
+            "animation_end": "1320.0"
+        },
+        {
+            "index": 20,
+            "caption": "EV1 moves to viewing position",
+            "transcript": "At this point, EV one moves into a deployment viewing position and EV two will release the final two bolts restraining Iroza in the undeploid position.",
+            "animation_start": "1320.0",
+            "animation_end": "1323.0"
+        },
+        {
+            "index": 21,
+            "caption": "EV2 releases final bolts restraining iROSA",
+            "transcript": "At this point, EV one moves into a deployment viewing position and EV two will release the final two bolts restraining Iroza in the undeploid position. Iroza will deploy over the next six to ten minutes.",
+            "animation_start": "1323.0",
+            "animation_end": "1332.0"
+        },
+        {
+            "index": 22,
+            "caption": "EV1 moves back to iROSA carrier to configure carrier beams",
+            "transcript": "Iroza will deploy over the next six to ten minutes. During deployment, EV one translates back to thyroza carrier to reconfigure the carrier beams that previously held the upper Irosa. These beams need to be rotated out of the way to allow access to the lower Irosa on the second EVA Once deployment is complete, EV two will release two bolts that allow the rows of blankets to become tensioned.",
+            "animation_start": "1332.0",
+            "animation_end": "1349.0"
+        },
+        {
+            "index": 23,
+            "caption": "EV2 releases two bolts to allow iROSA to become tensioned",
+            "transcript": "These beams need to be rotated out of the way to allow access to the lower Irosa on the second EVA Once deployment is complete, EV two will release two bolts that allow the rows of blankets to become tensioned.",
+            "animation_start": "1349.0",
+            "animation_end": "1358.0"
+        },
+        {
+            "index": 24,
+            "caption": "EV2 cleans up and heads to iROSA carrier to help EV1",
+            "transcript": "These beams need to be rotated out of the way to allow access to the lower Irosa on the second EVA Once deployment is complete, EV two will release two bolts that allow the rows of blankets to become tensioned. EV two then cleans up the mod kit worksite, retrieving his crew lock bag and heads to the carrier to help EV one with the carrier beams.",
+            "animation_start": "1358.0",
+            "animation_end": "1370.0"
+        },
+        {
+            "index": 25,
+            "caption": "EV1 & EV2 release bolts holding beams in place, rotate them out of the way, and secure them",
+            "transcript": "The crew members work together to release the bolts holding the beams in place. Then they will rotate the beams out of the way and secure them back down. This is the last task in the first DBA.",
+            "animation_start": "1370.0",
+            "animation_end": "1390.0"
+        },
+        {
+            "index": 26,
+            "caption": "EV1 & EV2 clean up worksite",
+            "transcript": "Both crew will clean up the worksite and translate back to the airlock. They will clean up their tethers on the way They will then work to ingress and begin repressing the airlock.",
+            "animation_start": "1390.0",
+            "animation_end": "1399.0"
+        },
+        {
+            "index": 27,
+            "caption": "EV1 & EV2 head back to airlock",
+            "transcript": "They will clean up their tethers on the way They will then work to ingress and begin repressing the airlock.",
+            "animation_start": "1399.0",
+            "animation_end": "1402.0"
+        },
+        {
+            "index": 28,
+            "caption": "EV1 & EV2 enter airlock",
+            "transcript": "They will clean up their tethers on the way They will then work to ingress and begin repressing the airlock. This will finish the first of two EVAs.",
+            "animation_start": "1402.0",
+            "animation_end": "1412.0"
+        }
+    ],
+    "06262020": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "Chris exits airlock",
+            "transcript": "Let's take a look This EVA begins the one bravo power channel upgrade. Chris wearing the red striped Egress's first He sets up their tether anchors away from the airlock to enable them to go farther outboard.",
+            "animation_start": "376.0",
+            "animation_end": "380.0"
+        },
+        {
+            "index": 2,
+            "caption": "Chris sets up tether",
+            "transcript": "Chris wearing the red striped Egress's first He sets up their tether anchors away from the airlock to enable them to go farther outboard.",
+            "animation_start": "380.0",
+            "animation_end": "386.0"
+        },
+        {
+            "index": 3,
+            "caption": "Bob grabs foot restraint and follows outward",
+            "transcript": "Then Bob wearing the white strip, grabs his foot restraint and follows outboard.",
+            "animation_start": "386.0",
+            "animation_end": "391.0"
+        },
+        {
+            "index": 4,
+            "caption": "Chris sets up foot restraint",
+            "transcript": "Then Bob wearing the white strip, grabs his foot restraint and follows outboard. Chris picks up his foot restraint on the cedar cart, and heads to the external pallet or EP.",
+            "animation_start": "391.0",
+            "animation_end": "396.0"
+        },
+        {
+            "index": 5,
+            "caption": "Chris heads to external pallete",
+            "transcript": "Chris picks up his foot restraint on the cedar cart, and heads to the external pallet or EP. The external pallet is held by the robotic arm and houses the new batteries launched from Japan on HDV nine in May.",
+            "animation_start": "396.0",
+            "animation_end": "410.0"
+        },
+        {
+            "index": 6,
+            "caption": "Chris sets up tools and prepares worksite",
+            "transcript": "Chris sets up his tools and prepares his worksite.",
+            "animation_start": "410.0",
+            "animation_end": "416.0"
+        },
+        {
+            "index": 7,
+            "caption": "Bob moves to IEA",
+            "transcript": "Bob translates to the s six Integrated Electronics Assembly, or IEA, which will be his main work site throughout the EVA.",
+            "animation_start": "416.0",
+            "animation_end": "421.0"
+        },
+        {
+            "index": 8,
+            "caption": "Chris & Bob finish setup",
+            "transcript": "Bob translates to the s six Integrated Electronics Assembly, or IEA, which will be his main work site throughout the EVA. The IEA houses the better and hardware for the one b solar arrays and power channel. Chris will join Bob and they work together to finish setup.",
+            "animation_start": "421.0",
+            "animation_end": "433.0"
+        },
+        {
+            "index": 9,
+            "caption": "Chris & Bob retrieve battery from slot 1",
+            "transcript": "Chris will join Bob and they work together to finish setup. First, battery from slot number one is retrieved. The crew needs to release torque with a ratchet, Then use the pistol grip tool or PGT to complete the release of the bolts. The large battery is removed and the crew worked together to move it over to the EP for disposal.",
+            "animation_start": "433.0",
+            "animation_end": "451.0"
+        },
+        {
+            "index": 10,
+            "caption": "Chris & Bob move battery to EP",
+            "transcript": "The large battery is removed and the crew worked together to move it over to the EP for disposal.",
+            "animation_start": "451.0",
+            "animation_end": "457.0"
+        },
+        {
+            "index": 11,
+            "caption": "Chris enters foot restraint",
+            "transcript": "Chris ingresses the foot restraint, and the crew worked together to install the battery in empty slot x.",
+            "animation_start": "457.0",
+            "animation_end": "459.0"
+        },
+        {
+            "index": 12,
+            "caption": "Chris & Bob install battery in empty slot X",
+            "transcript": "Chris ingresses the foot restraint, and the crew worked together to install the battery in empty slot x.",
+            "animation_start": "459.0",
+            "animation_end": "466.0"
+        },
+        {
+            "index": 13,
+            "caption": "Chris & Bob remove new battery from slot A",
+            "transcript": "Then the arm maneuvers to place Chris in front of the first new battery in slot a after placing scoops to create handhelds.",
+            "animation_start": "466.0",
+            "animation_end": "474.0"
+        },
+        {
+            "index": 14,
+            "caption": "Chris & Bob move battery to truss",
+            "transcript": "Then the arm maneuvers to place Chris in front of the first new battery in slot a after placing scoops to create handhelds. The crew will remove the battery and translate it back to the truss and install an empty slot number one.",
+            "animation_start": "474.0",
+            "animation_end": "479.0"
+        },
+        {
+            "index": 15,
+            "caption": "Chris & Bob install empty battery in empty slot 1",
+            "transcript": "The crew will remove the battery and translate it back to the truss and install an empty slot number one.",
+            "animation_start": "479.0",
+            "animation_end": "487.0"
+        },
+        {
+            "index": 16,
+            "caption": "Bob move foot restraint to reach battery",
+            "transcript": "Throughout the EVAs, Bob will need to move his foot restraint to reach each battery.",
+            "animation_start": "487.0",
+            "animation_end": "493.0"
+        },
+        {
+            "index": 17,
+            "caption": "Chris & Bob retrieve battery from slot 2",
+            "transcript": "Next, the battery in slot two is removed and translated over to the pallet.",
+            "animation_start": "493.0",
+            "animation_end": "498.0"
+        },
+        {
+            "index": 18,
+            "caption": "Chris & Bob move battery to EP",
+            "transcript": "Next, the battery in slot two is removed and translated over to the pallet.",
+            "animation_start": "498.0",
+            "animation_end": "502.0"
+        },
+        {
+            "index": 19,
+            "caption": "Chris enters foot restraint & places battery on BRT",
+            "transcript": "At the EP, Chris is in a foot restraint and places the battery on his BRT or body restraint tether.",
+            "animation_start": "502.0",
+            "animation_end": "508.0"
+        },
+        {
+            "index": 20,
+            "caption": "Chris releases adapter plate",
+            "transcript": "At the EP, Chris is in a foot restraint and places the battery on his BRT or body restraint tether. Chris will release the adapter plate launched underneath the battery. Like with the batteries, he has to use the ratchet to release the high torque, and then PGT to fully release the bolt.",
+            "animation_start": "508.0",
+            "animation_end": "521.0"
+        },
+        {
+            "index": 21,
+            "caption": "Chris removes adapter plate and passes it to Bob",
+            "transcript": "Chris removes the adapter plate to hand a bulb.",
+            "animation_start": "521.0",
+            "animation_end": "527.0"
+        },
+        {
+            "index": 22,
+            "caption": "Bob takes the adapter plate to the truss",
+            "transcript": "BOG translates back to the truss to install the adapter plate in open slot two.",
+            "animation_start": "527.0",
+            "animation_end": "530.0"
+        },
+        {
+            "index": 23,
+            "caption": "Bob installs adapter plate in open slot 2",
+            "transcript": "BOG translates back to the truss to install the adapter plate in open slot two.",
+            "animation_start": "530.0",
+            "animation_end": "534.0"
+        },
+        {
+            "index": 24,
+            "caption": "Chris puts old battery in slot A",
+            "transcript": "BOG translates back to the truss to install the adapter plate in open slot two. At the same time, Chris is putting the old battery in the slot he had just indeed for disposal.",
+            "animation_start": "534.0",
+            "animation_end": "538.0"
+        },
+        {
+            "index": 25,
+            "caption": "Chris & Bob make cable between new battery and adapter plate",
+            "transcript": "At the same time, Chris is putting the old battery in the slot he had just indeed for disposal. Together, on the IEA, they made a case will be trained the adapter plate and the new battery to complete the circuit.",
+            "animation_start": "538.0",
+            "animation_end": "546.0"
+        },
+        {
+            "index": 26,
+            "caption": "Chris & Bob remove old battery from slot 3",
+            "transcript": "Together, on the IEA, they made a case will be trained the adapter plate and the new battery to complete the circuit. With one of the three battery pairs complete, they move to slot three to the next OLED battery.",
+            "animation_start": "546.0",
+            "animation_end": "554.0"
+        },
+        {
+            "index": 27,
+            "caption": "Chris & Bob stow battery on adapter plate in slot 2",
+            "transcript": "With one of the three battery pairs complete, they move to slot three to the next OLED battery. This battery will be stowed on the adapter plate and slot two where it is no longer needed to function.",
+            "animation_start": "554.0",
+            "animation_end": "559.0"
+        },
+        {
+            "index": 28,
+            "caption": "Chris & Bob move to EP",
+            "transcript": "This battery will be stowed on the adapter plate and slot two where it is no longer needed to function. Bob and Chris returned to the pallet to retrieve battery b.",
+            "animation_start": "559.0",
+            "animation_end": "567.0"
+        },
+        {
+            "index": 29,
+            "caption": "Chris removes new battery and hands it to Bob",
+            "transcript": "Bob and Chris returned to the pallet to retrieve battery b. They repeat the steps to release the bolts, translate back to the truss, And together, install an empty slot number three.",
+            "animation_start": "567.0",
+            "animation_end": "573.0"
+        },
+        {
+            "index": 30,
+            "caption": "Chris & Bob take the battery to the truss",
+            "transcript": "They repeat the steps to release the bolts, translate back to the truss, And together, install an empty slot number three.",
+            "animation_start": "573.0",
+            "animation_end": "575.0"
+        },
+        {
+            "index": 31,
+            "caption": "Chris & Bob install new battery in empty slot 3",
+            "transcript": "They repeat the steps to release the bolts, translate back to the truss, And together, install an empty slot number three.",
+            "animation_start": "575.0",
+            "animation_end": "583.0"
+        },
+        {
+            "index": 32,
+            "caption": "Chris & Bob cleanup and setup for future EVAs",
+            "transcript": "At this point, Bob and Chris began cleanup on the first of the two one bravo battery channel EDAs. They also prepare for the next EVA, including moving foot restraints, securing tools and bags where they",
+            "animation_start": "583.0",
+            "animation_end": "599.0"
+        },
+        {
+            "index": 33,
+            "caption": "Chris moves to airlock",
+            "transcript": "They also prepare for the next EVA, including moving foot restraints, securing tools and bags where they Will be needed. Once the work site is clean, Chris translates from the end of the s six truss. Pausing to reconfigure their safety tethers on the return to the airlock.",
+            "animation_start": "599.0",
+            "animation_end": "619.0"
+        },
+        {
+            "index": 34,
+            "caption": "Bob moves to airlock",
+            "transcript": "Bob follows for ingress.",
+            "animation_start": "619.0",
+            "animation_end": "623.0"
+        },
+        {
+            "index": 35,
+            "caption": "Chris & Bob enter airlock",
+            "transcript": "Completing power channel one bravo EVA one.",
+            "animation_start": "623.0",
+            "animation_end": "626.0"
+        }
+    ],
+    "09122021": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "EV1 & EV2 exit airlock",
+            "transcript": "US EVA seventy seven will begin at the Quest Airlock. Jackson astronaut, Aki Hochde, EV one, noted by the red stripes, will egress first and receive and hold the eight foot mod kid's shut bag. European astronaut to Ma Pes Gay will egress second with the full white suit.",
+            "animation_start": "2515.0",
+            "animation_end": "2531.0"
+        },
+        {
+            "index": 2,
+            "caption": "EV2 move to P4",
+            "transcript": "Take control of the large bag on his body restraint and tether and head out to p four. He will pause momentarily to his fairly brief hook, just nadir at the Flex hose rotary coupler, the FHRC, and then continue translation to P4.",
+            "animation_start": "2531.0",
+            "animation_end": "2546.0"
+        },
+        {
+            "index": 3,
+            "caption": "EV1 follow EV2 outward",
+            "transcript": "Back at the airlock, EV one Aki Hochade will retrieve his worksite interface extender, or with fix, and follow-up to for. He will also pause to drop his fairly green hook just nadir of the FH see.",
+            "animation_start": "2546.0",
+            "animation_end": "2563.0"
+        },
+        {
+            "index": 4,
+            "caption": "EV2 stow strut bag",
+            "transcript": "While tomorrow is doing the very large strip bag at p four, Aki will complete his translation out to the p four beta Gimbal assembly where he will install and set up his quick fix.",
+            "animation_start": "2563.0",
+            "animation_end": "2568.0"
+        },
+        {
+            "index": 5,
+            "caption": "EV1 setup and install WIfEx",
+            "transcript": "While tomorrow is doing the very large strip bag at p four, Aki will complete his translation out to the p four beta Gimbal assembly where he will install and set up his quick fix.",
+            "animation_start": "2568.0",
+            "animation_end": "2577.0"
+        },
+        {
+            "index": 6,
+            "caption": "EV1 & EV2 assemble upper triangle",
+            "transcript": "You will return back to p four to set up his foot restraint in the width extender and optimize for position. Aki will then translate over to Tomaw To begin assembling the ISS roll out solar array mod kit upper triangle. Kama and Aki will work as a team to build the triangular segment loosely, and then we'll in the structure by driving the bolts to torque.",
+            "animation_start": "2596.0",
+            "animation_end": "2612.0"
+        },
+        {
+            "index": 7,
+            "caption": "EV1 enter foot restraint",
+            "transcript": "Kama and Aki will work as a team to build the triangular segment loosely, and then we'll in the structure by driving the bolts to torque. Ockee will then translate over to and ingress the foot restraint.",
+            "animation_start": "2612.0",
+            "animation_end": "2617.0"
+        },
+        {
+            "index": 8,
+            "caption": "EV2 hand EV1 upper triangle",
+            "transcript": "Tom will hand off the upper triangle to Aki, Aki will lean back, soft off the structure to the beta gimbal assembly, and drive four bolts.",
+            "animation_start": "2617.0",
+            "animation_end": "2621.0"
+        },
+        {
+            "index": 9,
+            "caption": "EV1 install upper triangle",
+            "transcript": "Tom will hand off the upper triangle to Aki, Aki will lean back, soft off the structure to the beta gimbal assembly, and drive four bolts.",
+            "animation_start": "2621.0",
+            "animation_end": "2628.0"
+        },
+        {
+            "index": 10,
+            "caption": "EV1 exit foot restraint and tilt it to the left",
+            "transcript": "Once complete with the upper triangle, Aki will egress the foot restraint, bias it to the left hand side while Tamal prepares the hand a left mid strut for BRT stow.",
+            "animation_start": "2628.0",
+            "animation_end": "2638.0"
+        },
+        {
+            "index": 11,
+            "caption": "EV1 enter foot restraint and receive strut",
+            "transcript": "Once complete with the upper triangle, Aki will egress the foot restraint, bias it to the left hand side while Tamal prepares the hand a left mid strut for BRT stow. Aki will ingress the APFR and hold the lower strut while Tama reposition to the solar array blanket box for saab bearing to install the left lower struts.",
+            "animation_start": "2638.0",
+            "animation_end": "2648.0"
+        },
+        {
+            "index": 12,
+            "caption": "EV1 & EV2 install lower left strut",
+            "transcript": "Aki will ingress the APFR and hold the lower strut while Tama reposition to the solar array blanket box for saab bearing to install the left lower struts. Tomah will begin driving this bolt by hand four turns while Aki aligns his end and drives his to the mounting bracket two turns. Tomaw will finish his bolt by driving it with a pistol grip tool, followed by high torque with the EVA torque wrench. Once the bolt is deemed good, off you will be given a go to drive his bolt of torque using the crystal grip tool. This will complete our minimum config for the mod kit.",
+            "animation_start": "2648.0",
+            "animation_end": "2675.0"
+        },
+        {
+            "index": 13,
+            "caption": "EV1 & EV2 install mid left strut",
+            "transcript": "This will complete our minimum config for the mod kit. Tom will translate on the beta gimbal assembly and Aki will hand off his telescoping mid stretch for install. Tamal will work to soft dock, the side pad to the BGA, while Aki holds his clevis bolt side in place. Tamal will start four bolts by hand followed by the pistol grip tool. Aki will then drive his bolt to torque on the mounting bracket.",
+            "animation_start": "2675.0",
+            "animation_end": "2703.0"
+        },
+        {
+            "index": 14,
+            "caption": "EV2 collect tools and prepare for right side",
+            "transcript": "Small then gather tools and reset for the right hand side. Rubbering your tools back to the bag while arching egresses and reposition the foot restraint to bias it to the right side.",
+            "animation_start": "2703.0",
+            "animation_end": "2713.0"
+        },
+        {
+            "index": 15,
+            "caption": "EV1 enter foot restraint and receive strut",
+            "transcript": "Aki will ingress the foot restraints and the crew will repeat the hand off first, the mid strut for BRt stow, and then the long lower right strut. So ma will then reposition to the right hand side for the four alpha gimbal assembly, and the analogous install strategy will unfold to model position at the right saw Berry, the lower strut install, and then over onto the BGA for the mid strut install.",
+            "animation_start": "2718.0",
+            "animation_end": "2736.0"
+        },
+        {
+            "index": 16,
+            "caption": "EV1 & EV2 install lower right strut",
+            "transcript": "So ma will then reposition to the right hand side for the four alpha gimbal assembly, and the analogous install strategy will unfold to model position at the right saw Berry, the lower strut install, and then over onto the BGA for the mid strut install.",
+            "animation_start": "2736.0",
+            "animation_end": "2744.0"
+        },
+        {
+            "index": 17,
+            "caption": "EV1 & EV2 install mid right strut",
+            "transcript": "So ma will then reposition to the right hand side for the four alpha gimbal assembly, and the analogous install strategy will unfold to model position at the right saw Berry, the lower strut install, and then over onto the BGA for the mid strut install. Tomaw will translate on the mid strut and drive two collar bolts to torque rigidizing the telescoping mechanism on the right hand side. Once complete the crew will install the multilayer insulation, and then Tamal will position to the left hand side to repeat.",
+            "animation_start": "2744.0",
+            "animation_end": "2761.0"
+        },
+        {
+            "index": 18,
+            "caption": "EV1 & EV2 install multi-layer insulation",
+            "transcript": "",
+            "animation_start": "2761.0",
+            "animation_end": "2771.0"
+        },
+        {
+            "index": 19,
+            "caption": "EV1 exit foot restraint and begin cleanup",
+            "transcript": "Aki will egress the footwear straight and begin cleanup. He will retrieve and stow all the tools, fold the bag in thirds and stow on his body restraint, Tethr.",
+            "animation_start": "2771.0",
+            "animation_end": "2781.0"
+        },
+        {
+            "index": 20,
+            "caption": "EV1 & EV2 hand off tools",
+            "transcript": "The crew will meet up and hand off tools for the next task, the floating potential measurement unit, remove and replace, and then prep for that task to model translate and retrieve a foot restraint with X combo on his body restraint, Tethr.",
+            "animation_start": "2781.0",
+            "animation_end": "2788.0"
+        },
+        {
+            "index": 21,
+            "caption": "EV2 retrieve foot restraint",
+            "transcript": "The crew will meet up and hand off tools for the next task, the floating potential measurement unit, remove and replace, and then prep for that task to model translate and retrieve a foot restraint with X combo on his body restraint, Tethr. Aki will be the first to head inboard.",
+            "animation_start": "2788.0",
+            "animation_end": "2797.0"
+        },
+        {
+            "index": 22,
+            "caption": "EV1 return to airlock",
+            "transcript": "Aki will be the first to head inboard. He will follow his tether back to the airlock underneath theMT. And down the seat is fur.",
+            "animation_start": "2797.0",
+            "animation_end": "2807.0"
+        },
+        {
+            "index": 23,
+            "caption": "EV1 exchange strut bag for spare FPMU",
+            "transcript": "And down the seat is fur. At the airlock, the crew will open the thermal cover, stow the strap bag and exchange it. For the spare FPMU.",
+            "animation_start": "2807.0",
+            "animation_end": "2816.0"
+        },
+        {
+            "index": 24,
+            "caption": "EV2 move to P1 FPMU",
+            "transcript": "Meanwhile, tomorrow we'll head inboard with his foot restraint. Pause momentarily at the FHRC and then go zenith across the zenith handrail over to the P1 FPMU.",
+            "animation_start": "2816.0",
+            "animation_end": "2832.0"
+        },
+        {
+            "index": 25,
+            "caption": "EV2 install electrical inhibitor",
+            "transcript": "Tomorrow will pause momentarily to put in an EVA electrical inhibit by pulling a NASA zero g lever electrical connector app and then install the foot restraint at the worksite.",
+            "animation_start": "2832.0",
+            "animation_end": "2840.0"
+        },
+        {
+            "index": 26,
+            "caption": "EV2 install foot restraint and enter it",
+            "transcript": "Tomorrow will pause momentarily to put in an EVA electrical inhibit by pulling a NASA zero g lever electrical connector app and then install the foot restraint at the worksite. He will work to position it to the desired position, and then for prep for FPMU removal.",
+            "animation_start": "2840.0",
+            "animation_end": "2855.0"
+        },
+        {
+            "index": 27,
+            "caption": "EV1 move to P1 FPMU",
+            "transcript": "Akaki will translate back to face one. Going up the seat spur under the m t and then zenith at the f a r c. And meet Tamah at the FPMU at p one.",
+            "animation_start": "2855.0",
+            "animation_end": "2871.0"
+        },
+        {
+            "index": 28,
+            "caption": "EV1 stow spare FPMU",
+            "transcript": "And meet Tamah at the FPMU at p one. He will stow the spare in a location optimal for hand off.",
+            "animation_start": "2871.0",
+            "animation_end": "2876.0"
+        },
+        {
+            "index": 29,
+            "caption": "EV2 release ORU",
+            "transcript": "During this time, Tom will tether to the FPMU and begin driving bolts. Two outer and then one center with the pistol grip tool. He'll stow that and then install a handling aid called a scoop for ease and removal of this unique orbital replacement unit or o r u.",
+            "animation_start": "2876.0",
+            "animation_end": "2890.0"
+        },
+        {
+            "index": 30,
+            "caption": "EV1 swap failed FPMU for new one",
+            "transcript": "He'll stow that and then install a handling aid called a scoop for ease and removal of this unique orbital replacement unit or o r u. Tomorrow will position the FPMU to allow Aki to stow the probes. Aki will slide a collar all the way, depress the lever and lower the probes into place. You'll use a taped wire tie to keep them in the stowed location. For ease, the failed FPMU will be stowed on Tamah's body restraint tether. Aki will then retrieve the spare from the bag, tether, and remove the air tie and deploy the probes.",
+            "animation_start": "2890.0",
+            "animation_end": "2920.0"
+        },
+        {
+            "index": 31,
+            "caption": "EV1 & EV2 reinstall ORU",
+            "transcript": "Aki will then retrieve the spare from the bag, tether, and remove the air tie and deploy the probes. They will hand off and reinstall the spare into the stanchion. Driving the center bolt followed by the two outer bolts.",
+            "animation_start": "2920.0",
+            "animation_end": "2929.0"
+        },
+        {
+            "index": 32,
+            "caption": "EV1 stow old FPMU on BRT",
+            "transcript": "Driving the center bolt followed by the two outer bolts. Once complete the team, we'll work to stow the failed unit into the ORU thermal bag and stow on Aki's body restraint tether.",
+            "animation_start": "2929.0",
+            "animation_end": "2939.0"
+        },
+        {
+            "index": 33,
+            "caption": "EV1 return to airlock and stow old FPMU",
+            "transcript": "Once complete the team, we'll work to stow the failed unit into the ORU thermal bag and stow on Aki's body restraint tether. Aki will then follow his tether back to the airlock and stow the failed FPMU in the airlock.",
+            "animation_start": "2939.0",
+            "animation_end": "2947.0"
+        },
+        {
+            "index": 34,
+            "caption": "EV2 clean up worksite",
+            "transcript": "Aki will then follow his tether back to the airlock and stow the failed FPMU in the airlock. Jamal will work to clean up the worksite by egressing the foot restraints and plugging in the EVA electrical inhibit by moving the lever fully forward. He will retrieve his foot restraints on his body restraint tether.",
+            "animation_start": "2947.0",
+            "animation_end": "2962.0"
+        },
+        {
+            "index": 35,
+            "caption": "EV2 stow foot restraint",
+            "transcript": "He will retrieve his foot restraints on his body restraint tether. He will follow his tether back to the airlock. Under the m t, he will pause momentarily to stow the foot restraint and the starboard cedar cart for an upcoming EVA, and then translate down the cedar spur to the airlock.",
+            "animation_start": "2962.0",
+            "animation_end": "2973.0"
+        },
+        {
+            "index": 36,
+            "caption": "EV2 return to airlock",
+            "transcript": "Under the m t, he will pause momentarily to stow the foot restraint and the starboard cedar cart for an upcoming EVA, and then translate down the cedar spur to the airlock. For successful completion of US EDA seventy seven.",
+            "animation_start": "2973.0",
+            "animation_end": "2980.0"
+        },
+        {
+            "index": 37,
+            "caption": "EV1 & EV2 enter airlock",
+            "transcript": "",
+            "animation_start": "2980.0",
+            "animation_end": "2982.0"
+        }
+    ],
+    "11152022": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "EV1 exits airlock and receives bags",
+            "transcript": "US spacewalk eighty one will be conducted by EV one, Josh Cassada, and EV two, Frank Rubio. EV one exits the airlock and gets handed one of the bags in preparation for the EVA. And the second bag, the strut bag gets handed out and put on EV one's body restraint tip.",
+            "animation_start": "869.0",
+            "animation_end": "895.0"
+        },
+        {
+            "index": 2,
+            "caption": "EV2 exits airlock",
+            "transcript": "EV two egresses the airlock, and that allows EV one to start translation up the c to spur over to phase one of the ISS truss.",
+            "animation_start": "895.0",
+            "animation_end": "899.0"
+        },
+        {
+            "index": 3,
+            "caption": "EV1 moves to end of S6 truss and tethers strut bag",
+            "transcript": "EV two egresses the airlock, and that allows EV one to start translation up the c to spur over to phase one of the ISS truss. Trash translates along and stops at a handrail. Hook up EV two's safety tether and his safety tether and continues his translation path. As he makes his way down the truss, he translates along and gets out to the end of the s six truss and tethers the strut back.",
+            "animation_start": "899.0",
+            "animation_end": "934.0"
+        },
+        {
+            "index": 4,
+            "caption": "EV2 closes airlock and heads outward",
+            "transcript": "Meanwhile, Frank Rubio closes the thermal hatch then makes his way up to c to spur, to face one to follow the same translation path that Josh just translated on. He makes his way out to the s four truss and stows the cable bag and retrieves a pair of cables for the three a beta gimbal assembly.",
+            "animation_start": "934.0",
+            "animation_end": "950.0"
+        },
+        {
+            "index": 5,
+            "caption": "EV2 stows bag and retrieves cables",
+            "transcript": "He makes his way out to the s four truss and stows the cable bag and retrieves a pair of cables for the three a beta gimbal assembly. This is in preparation for the ISS rollout solar array that will be installed in a future EVA.",
+            "animation_start": "950.0",
+            "animation_end": "965.0"
+        },
+        {
+            "index": 6,
+            "caption": "EV2 hooks cables on mounting bracket",
+            "transcript": "This is in preparation for the ISS rollout solar array that will be installed in a future EVA. He hooks them up on the mounting bracket Routes one on the right side and tethers it off, and then routes the one on the left side.",
+            "animation_start": "965.0",
+            "animation_end": "971.0"
+        },
+        {
+            "index": 7,
+            "caption": "EV2 moves out with bag to S6 truss",
+            "transcript": "Frank translates out with that cable bag and temporarily stows it on a six dress.",
+            "animation_start": "982.0",
+            "animation_end": "991.0"
+        },
+        {
+            "index": 8,
+            "caption": "EV1 drives H fixture bolts",
+            "transcript": "Meanwhile, Josh climbs up onto the one bravo VGA, and drives the h fixture bolts. This is in preparation for installing the mod kit assembly.",
+            "animation_start": "991.0",
+            "animation_end": "1004.0"
+        },
+        {
+            "index": 9,
+            "caption": "EV1 receives upper triangle and installs it",
+            "transcript": "Crank hands that triangle up to Josh, and Josh installs it with his pistol grip tool.",
+            "animation_start": "1036.0",
+            "animation_end": "1050.0"
+        },
+        {
+            "index": 10,
+            "caption": "EV1 exit foot restraint and receive struts from EV2",
+            "transcript": "Once this is in place, Josh will egress the foot restraint and help Frank retrieve several of the other struts as part of the assembly. Frank will get into position and hand one end of the lower stride up to Josh and get into position to drive his bolt.",
+            "animation_start": "1050.0",
+            "animation_end": "1071.0"
+        },
+        {
+            "index": 11,
+            "caption": "EV1 & EV2 install lower strut on left side",
+            "transcript": "Working together, the two crew members will install a lower strut and bolt it in place. Frank will apply the final torque on the bolt and get into position for the mid strike.",
+            "animation_start": "1071.0",
+            "animation_end": "1088.0"
+        },
+        {
+            "index": 12,
+            "caption": "EV1 & EV2 install mid strut on left side",
+            "transcript": "Frank will apply the final torque on the bolt and get into position for the mid strike. Again, working together, the two crew members will install the mid strike. And drive the bolts to put it in place.",
+            "animation_start": "1088.0",
+            "animation_end": "1101.0"
+        },
+        {
+            "index": 13,
+            "caption": "EV1 & EV2 install lower strut on right side",
+            "transcript": "Once this is complete, the two crew members retrieve the struts or the right side of the mod kit. They will repeat the process by installing the lower strut first and driving the bolts to torque it into place.",
+            "animation_start": "1101.0",
+            "animation_end": "1120.0"
+        },
+        {
+            "index": 14,
+            "caption": "EV1 & EV2 install mid strut on right side",
+            "transcript": "The two crew members will follow that up with the right side, mid strut, working together to get it into place and driving all the bolts.",
+            "animation_start": "1120.0",
+            "animation_end": "1132.0"
+        },
+        {
+            "index": 15,
+            "caption": "EV1 exit foot restraint and retrieve cables",
+            "transcript": "Meanwhile, Josh will egress the foot restraint and retrieve the ISS rollout solar arrays that will get put in place in preparation for deployment of the ISS rollout solar rate when that arrives.",
+            "animation_start": "1132.0",
+            "animation_end": "1148.0"
+        },
+        {
+            "index": 16,
+            "caption": "EV1 & EV2 collect tools and stow them in bags",
+            "transcript": "Once this is done, the crew members will start collecting their gear and stowing it in the empty bags to bring back to the airlock. Frank collects these bags. And puts him on his body restraint tether.",
+            "animation_start": "1169.0",
+            "animation_end": "1184.0"
+        },
+        {
+            "index": 17,
+            "caption": "EV2 brings bags back to airlock and stows them inside",
+            "transcript": "He makes his way back to the airlock and stows them inside Josh retrieves the articulating portable foot restraint, puts it on his body restraint tether and takes it back to the crew aids and tools.",
+            "animation_start": "1184.0",
+            "animation_end": "1189.0"
+        },
+        {
+            "index": 18,
+            "caption": "EV1 brings foot restraint back to CETA carrier",
+            "transcript": "He makes his way back to the airlock and stows them inside Josh retrieves the articulating portable foot restraint, puts it on his body restraint tether and takes it back to the crew aids and tools. Translation aid",
+            "animation_start": "1189.0",
+            "animation_end": "1200.0"
+        },
+        {
+            "index": 19,
+            "caption": "EV1 stows foot restraint",
+            "transcript": "Stows it, and then makes his way back to the airlock to complete the EVA.",
+            "animation_start": "1200.0",
+            "animation_end": "1202.0"
+        },
+        {
+            "index": 20,
+            "caption": "EV1 returns to airlock",
+            "transcript": "Stows it, and then makes his way back to the airlock to complete the EVA.",
+            "animation_start": "1202.0",
+            "animation_end": "1207.0"
+        },
+        {
+            "index": 21,
+            "caption": "EV1 & EV2 enter airlock",
+            "transcript": "Frank ingresses the airlock first followed by Josh. The crew will close the thermal cover and then close the hatch on the inside.",
+            "animation_start": "1207.0",
+            "animation_end": "1217.0"
+        }
+    ],
+    "12022021": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "EV1 move from airlock to antenna site",
+            "transcript": "EV one will need out five, going up to see the spur and translating on to phase one.",
+            "animation_start": "716.0",
+            "animation_end": "723.0"
+        },
+        {
+            "index": 2,
+            "caption": "EV1 begin setting up robotic arm",
+            "transcript": "There he will begin setting up the robotic arm.",
+            "animation_start": "723.0",
+            "animation_end": "727.0"
+        },
+        {
+            "index": 3,
+            "caption": "EV2 move from airlock to express logistics carrier 3",
+            "transcript": "EV two will follow the same path initially. Translate up to phase one and then continue zenith past the failed s band antenna and out t xpress logistics carrier number three.",
+            "animation_start": "727.0",
+            "animation_end": "749.0"
+        },
+        {
+            "index": 4,
+            "caption": "EV2 stow two bags and retrieve tether",
+            "transcript": "Once at the worksite, we do two will stow too bad and then retrieve a rigidizable tether.",
+            "animation_start": "749.0",
+            "animation_end": "759.0"
+        },
+        {
+            "index": 5,
+            "caption": "EV1 install portable foot restraint",
+            "transcript": "This tether will be installed on the forward face of a logistic carrier and will be used to temporarily stow the degraded antenna as it's brought over to the carrier later in the EVA. EV1 will set up the robotic arm by installing a portable foot restraint, and then we'll ingress that foot restraint.",
+            "animation_start": "770.0",
+            "animation_end": "776.0"
+        },
+        {
+            "index": 6,
+            "caption": "EV1 enter foot restraint",
+            "transcript": "EV1 will set up the robotic arm by installing a portable foot restraint, and then we'll ingress that foot restraint.",
+            "animation_start": "776.0",
+            "animation_end": "780.0"
+        },
+        {
+            "index": 7,
+            "caption": "EV2 prep work at logistics carrier",
+            "transcript": "Get ready for our immersion. Eighty two will continue some prep work at the Express Logistics Carrier, and then will trend late to a degraded SASSA or S band antenna.",
+            "animation_start": "780.0",
+            "animation_end": "786.0"
+        },
+        {
+            "index": 8,
+            "caption": "EV2 move to degraded antenna",
+            "transcript": "Eighty two will continue some prep work at the Express Logistics Carrier, and then will trend late to a degraded SASSA or S band antenna.",
+            "animation_start": "786.0",
+            "animation_end": "796.0"
+        },
+        {
+            "index": 9,
+            "caption": "EV1 use robotic arm to move to degraded antenna",
+            "transcript": "Eighty one will then provide guidance to the robotic arm to get him to his next work site.",
+            "animation_start": "796.0",
+            "animation_end": "807.0"
+        },
+        {
+            "index": 10,
+            "caption": "EV2 release 3 connectors (heat, functional, data)",
+            "transcript": "While EV two will release three connectors that provide heated power, functional power, and data One will put gimbal locks in place.",
+            "animation_start": "807.0",
+            "animation_end": "814.0"
+        },
+        {
+            "index": 11,
+            "caption": "EV1 put gimbal locks in place on degraded antenna",
+            "transcript": "While EV two will release three connectors that provide heated power, functional power, and data One will put gimbal locks in place. These will prevent the end kind of from moving as it's translated back and forth from t:one over to the Express Logistics area. These four bolts will then be driven by the pistol grip tool.",
+            "animation_start": "814.0",
+            "animation_end": "841.0"
+        },
+        {
+            "index": 12,
+            "caption": "EV1 use robotic arm to rotate to handrail side of antenna",
+            "transcript": "Maybe one didn't have the robotic arm rotation around to the handrail side. I the s rounded panel.",
+            "animation_start": "841.0",
+            "animation_end": "846.0"
+        },
+        {
+            "index": 13,
+            "caption": "EV2 release bolt holding degraded antenna to structure",
+            "transcript": "I the s rounded panel. While EV two releases a stanchion bolt that secures the antenna to structure, Once that bolt is released, the crew will work together and free the antenna and EV one will translate on their robotic arm to Express Logistics Carrier number three.",
+            "animation_start": "846.0",
+            "animation_end": "852.0"
+        },
+        {
+            "index": 14,
+            "caption": "EV1 & EV2 free degraded antenna",
+            "transcript": "While EV two releases a stanchion bolt that secures the antenna to structure, Once that bolt is released, the crew will work together and free the antenna and EV one will translate on their robotic arm to Express Logistics Carrier number three.",
+            "animation_start": "852.0",
+            "animation_end": "857.0"
+        },
+        {
+            "index": 15,
+            "caption": "EV1 take degraded antenna to express logistics carrier using robotic arm",
+            "transcript": "While EV two releases a stanchion bolt that secures the antenna to structure, Once that bolt is released, the crew will work together and free the antenna and EV one will translate on their robotic arm to Express Logistics Carrier number three.",
+            "animation_start": "857.0",
+            "animation_end": "864.0"
+        },
+        {
+            "index": 16,
+            "caption": "EV1 & EV2 stow degraded antenna",
+            "transcript": "Those crew members will work together to temporarily stow this has spanned antenna and that rigidizable tether.",
+            "animation_start": "864.0",
+            "animation_end": "871.0"
+        },
+        {
+            "index": 17,
+            "caption": "Remove thermal blanket from new antenna",
+            "transcript": "Those crew members will work together to temporarily stow this has spanned antenna and that rigidizable tether. He'll then begin to prepare the spare so that it can be brought over to p one. They'll remove the thermal blanket, stow that out of the way.",
+            "animation_start": "871.0",
+            "animation_end": "884.0"
+        },
+        {
+            "index": 18,
+            "caption": "Release bolts holding new antenna down",
+            "transcript": "This provides thermal conditioning for the unit. They each have two bolts leaked to release and they'll be using a special tool called a ride angle drive in order to gain access to those bolts.",
+            "animation_start": "884.0",
+            "animation_end": "896.0"
+        },
+        {
+            "index": 19,
+            "caption": "EV2 get into position and drive two remaining bolts to free new antenna",
+            "transcript": "Eighty two will then get into position to drive the two remaining bolts. Pistal grip tool will be used for that as well. You could call the mask bolt. There's a soft dock to overcome. Once that is overcome, EV one will gain control of the spare unit and then will ride the arm over to the p one worksite.",
+            "animation_start": "896.0",
+            "animation_end": "917.0"
+        },
+        {
+            "index": 20,
+            "caption": "EV1 gain control of new antenna and use robotic arm to take it to worksite",
+            "transcript": "Once that is overcome, EV one will gain control of the spare unit and then will ride the arm over to the p one worksite.",
+            "animation_start": "917.0",
+            "animation_end": "927.0"
+        },
+        {
+            "index": 21,
+            "caption": "EV1 & EV2 soft dock the new antenna",
+            "transcript": "Once at the p one worksite, both crew members will work together to soft dock this or will be temporarily held into the truss while e d two drives the stanchion bolt that will secure it in place.",
+            "animation_start": "927.0",
+            "animation_end": "935.0"
+        },
+        {
+            "index": 22,
+            "caption": "EV2 drives stanchion bolt to hold new antenna in place",
+            "transcript": "Once at the p one worksite, both crew members will work together to soft dock this or will be temporarily held into the truss while e d two drives the stanchion bolt that will secure it in place.",
+            "animation_start": "935.0",
+            "animation_end": "944.0"
+        },
+        {
+            "index": 23,
+            "caption": "EV2 reconnect 3 connectors (heat, functional, data) to new antenna",
+            "transcript": "You need to then reconnect the three connectors that provide heater power functional power and data.",
+            "animation_start": "944.0",
+            "animation_end": "951.0"
+        },
+        {
+            "index": 24,
+            "caption": "EV1 release gimbal locks on new antenna",
+            "transcript": "You need to then reconnect the three connectors that provide heater power functional power and data. EV one will release the four gimbal locks At this point, the antenna will be free to track satellites to allow good communication between space station and the ground.",
+            "animation_start": "951.0",
+            "animation_end": "975.0"
+        },
+        {
+            "index": 25,
+            "caption": "Perform checkout on new antenna",
+            "transcript": "Once the crew is clear of the worksite. They'll perform a checkout on this antenna.",
+            "animation_start": "975.0",
+            "animation_end": "980.0"
+        },
+        {
+            "index": 26,
+            "caption": "EV1 & EV2 move to logistics carrier",
+            "transcript": "They'll perform a checkout on this antenna. Both crew members will then head back to express logistics carrier number three. At this point that we working together to stow the degraded unit back onto the flight releasable attach mechanism or the RAM is the way that these or user orbital replacement units are brought onto the space station.",
+            "animation_start": "980.0",
+            "animation_end": "995.0"
+        },
+        {
+            "index": 27,
+            "caption": "EV2 drive two bolts to secure old antenna to logistics carrier",
+            "transcript": "At this point that we working together to stow the degraded unit back onto the flight releasable attach mechanism or the RAM is the way that these or user orbital replacement units are brought onto the space station. This one has heater power that helps to keep it alive. EV two will drive two bolts to secure it to structure. You call the mast bolts.",
+            "animation_start": "995.0",
+            "animation_end": "1029.0"
+        },
+        {
+            "index": 28,
+            "caption": "Install thermal blanket on degraded antenna",
+            "transcript": "Once those bolts are driven, the final step will be to install a thermal blanket that provides thermal conditioning and keeps this degraded unit available as a spare it's something needed.",
+            "animation_start": "1029.0",
+            "animation_end": "1039.0"
+        },
+        {
+            "index": 29,
+            "caption": "EV1 use robotic arm to move to truss",
+            "transcript": "Once those bolts are driven, the final step will be to install a thermal blanket that provides thermal conditioning and keeps this degraded unit available as a spare it's something needed. EV one will then back away from the worksite on the robotic arm and head back towards the truss Maybe two will then gather the bags and tools at the worksite Stoders on here, finding a straight tether.",
+            "animation_start": "1039.0",
+            "animation_end": "1052.0"
+        },
+        {
+            "index": 30,
+            "caption": "EV2 gather bags and stow them on restraint tether",
+            "transcript": "EV one will then back away from the worksite on the robotic arm and head back towards the truss Maybe two will then gather the bags and tools at the worksite Stoders on here, finding a straight tether.",
+            "animation_start": "1052.0",
+            "animation_end": "1064.0"
+        },
+        {
+            "index": 31,
+            "caption": "EV2 move to airlock and stow bags",
+            "transcript": "So I head back to the airlock stow those bags.",
+            "animation_start": "1064.0",
+            "animation_end": "1070.0"
+        },
+        {
+            "index": 32,
+            "caption": "EV1 get off of robotic arm",
+            "transcript": "Meanwhile, TV One will be getting off of the robotic arm.",
+            "animation_start": "1070.0",
+            "animation_end": "1075.0"
+        },
+        {
+            "index": 33,
+            "caption": "EV1 remove portable foot restraint",
+            "transcript": "And remove the portable foot restraint, and he'll return it to the starboard seated cart.",
+            "animation_start": "1075.0",
+            "animation_end": "1080.0"
+        },
+        {
+            "index": 34,
+            "caption": "EV1 return foot restraint to CETA cart",
+            "transcript": "And remove the portable foot restraint, and he'll return it to the starboard seated cart. This is where he picked it up at the beginning of the EBA.",
+            "animation_start": "1080.0",
+            "animation_end": "1093.0"
+        },
+        {
+            "index": 35,
+            "caption": "EV1 move to airlock",
+            "transcript": "One will then head back to the airlock as well.",
+            "animation_start": "1093.0",
+            "animation_end": "1096.0"
+        },
+        {
+            "index": 36,
+            "caption": "EV1 & EV2 enter airlock",
+            "transcript": "One will then head back to the airlock as well. Both ingress, and this will conclude US EVA seventy eight.",
+            "animation_start": "1096.0",
+            "animation_end": "1106.0"
+        }
+    ],
+    "12032022": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "EV1 & EV2 exit airlock",
+            "transcript": "As the EVA begins, Josh Casada as EV one and the red stripes will egress the airlock first. Followed by EV two, Frank Rubio, with the white stripes.",
+            "animation_start": "813.0",
+            "animation_end": "821.0"
+        },
+        {
+            "index": 2,
+            "caption": "EV1 & EV2 move to location on truss to set up tethers",
+            "transcript": "Followed by EV two, Frank Rubio, with the white stripes. They will each grab a bag and then both crew members will translate out to a location on the truss to set up their tethers.",
+            "animation_start": "821.0",
+            "animation_end": "829.0"
+        },
+        {
+            "index": 3,
+            "caption": "EV1 goes to iROSA carrier and set-up worksite",
+            "transcript": "EV one will head to the irosa carrier that has the stowed solar arrays to begin setting up that worksite. By stowing his crew lock bag on a handrail and retrieving his pistol grip tool.",
+            "animation_start": "829.0",
+            "animation_end": "842.0"
+        },
+        {
+            "index": 4,
+            "caption": "EV1 release first restraint bolt on iROSA",
+            "transcript": "EV one will then release the first restraint bolt on the irosa.",
+            "animation_start": "842.0",
+            "animation_end": "851.0"
+        },
+        {
+            "index": 5,
+            "caption": "EV2 head outward to iROSA mod kit",
+            "transcript": "Meanwhile, EV two will head outboard to drop off their cable bag, then retrieve and stow their crew lock bag at the three a irosa mod kit.",
+            "animation_start": "851.0",
+            "animation_end": "869.0"
+        },
+        {
+            "index": 6,
+            "caption": "EV1 retrieves foot restraint and installs it on robotic arm",
+            "transcript": "Back at the irosa carrier, EV one will retrieve an articulating portable foot restraint and install it on the end of the space station's EV one ingresses that foot restraint, providing a stable platform to allow the irosa to be carried from the carrier out to the mod get installation location Once complete at the mod get, EV two translates inboard and begins preparing the iRO for removal from the carrier.",
+            "animation_start": "869.0",
+            "animation_end": "887.0"
+        },
+        {
+            "index": 7,
+            "caption": "EV2 release 2 anti-rotation devices",
+            "transcript": "Back at the irosa carrier, EV one will retrieve an articulating portable foot restraint and install it on the end of the space station's EV one ingresses that foot restraint, providing a stable platform to allow the irosa to be carried from the carrier out to the mod get installation location Once complete at the mod get, EV two translates inboard and begins preparing the iRO for removal from the carrier. First, EV two will release two anti rotation devices from the carrier. These devices secure the primary straight bolt during the high vibration load seen during launch.",
+            "animation_start": "896.0",
+            "animation_end": "914.0"
+        },
+        {
+            "index": 8,
+            "caption": "EV2 partially release primary restraint bolt and install handling aid",
+            "transcript": "EV two will then partially release the primary strength bolts and install the first of two handling aids called SCOOPs in preparation for removing the irosa from the carrier.",
+            "animation_start": "914.0",
+            "animation_end": "938.0"
+        },
+        {
+            "index": 9,
+            "caption": "EV1 access and release 2 sets of bolts on bottom of iROSA",
+            "transcript": "On the robotic arm, EV one will fly over to access two sets of bolts on the boom end of the irosa. The first two bolts will allow the boom deployment system rollers to be moved into place later helping the arrays during deployment. The second two bolts really two of four mechanisms holding the irosa in its rolled up configuration.",
+            "animation_start": "938.0",
+            "animation_end": "962.0"
+        },
+        {
+            "index": 10,
+            "caption": "EV1 & EV2 release final bolt",
+            "transcript": "The robotic arm will then fly EV one over to the other side of the irosa, and both crew members will work together to release the final bolt holding irosa to the carrier.",
+            "animation_start": "962.0",
+            "animation_end": "974.0"
+        },
+        {
+            "index": 11,
+            "caption": "EV1 & EV2 install handling aid and lift iROSA",
+            "transcript": "They will then install a second scoop and then lift irosa off of the carrier. After several maneuvers on the robotic arm, EV one will arrive at the mod kit worksite.",
+            "animation_start": "974.0",
+            "animation_end": "993.0"
+        }
+    ],
+    "01152020": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "EV1 & EV2 exit airlock",
+            "transcript": "EV one with red stripes egresses the airlock followed by EV two.",
+            "animation_start": "197.0",
+            "animation_end": "204.0"
+        },
+        {
+            "index": 2,
+            "caption": "EV1 moves to 4B worksite",
+            "transcript": "While EV two puts her tool bag on a portable foot restraint, EV one translates to the forward face of the ISS. EV one secures both crew safety tethers and proceeds to the four bravo worksite at the port six location.",
+            "animation_start": "208.0",
+            "animation_end": "227.0"
+        },
+        {
+            "index": 3,
+            "caption": "EV2 follows same path to 4B worksite",
+            "transcript": "EV two then follows the same path to the work site.",
+            "animation_start": "227.0",
+            "animation_end": "241.0"
+        },
+        {
+            "index": 4,
+            "caption": "EV2 installs portable foot restraint",
+            "transcript": "EV two installs the portable foot restraint and moves her tool bag to the other side of the integrated equipment assembly.",
+            "animation_start": "241.0",
+            "animation_end": "248.0"
+        },
+        {
+            "index": 5,
+            "caption": "EV2 moves bag to other side of integrated equipment assembly",
+            "transcript": "EV two installs the portable foot restraint and moves her tool bag to the other side of the integrated equipment assembly. She breaks torque on the old nickel hydrogen battery in slot one and configures the worksite.",
+            "animation_start": "248.0",
+            "animation_end": "255.0"
+        },
+        {
+            "index": 6,
+            "caption": "EV2 breaks torque on battery in slot 1",
+            "transcript": "She breaks torque on the old nickel hydrogen battery in slot one and configures the worksite.",
+            "animation_start": "255.0",
+            "animation_end": "260.0"
+        },
+        {
+            "index": 7,
+            "caption": "EV2 releases 2 bolts",
+            "transcript": "EV two ingresses the portable foot restraint and releases two bolts using the sole grip tool. EV two removes the battery, and the crew worked together to shepherd it to the exposed pellet.",
+            "animation_start": "295.0",
+            "animation_end": "314.0"
+        },
+        {
+            "index": 8,
+            "caption": "EV2 removes battery",
+            "transcript": "",
+            "animation_start": "314.0",
+            "animation_end": "322.0"
+        },
+        {
+            "index": 9,
+            "caption": "EV1 & EV2 take battery to exposed palette",
+            "transcript": "Next, EV one ingresses the portable foot restraint, and they install the battery, driving one EV one removes two handling aids called scoops.",
+            "animation_start": "322.0",
+            "animation_end": "331.0"
+        },
+        {
+            "index": 10,
+            "caption": "EV1 enters foot restraint",
+            "transcript": "Next, EV one ingresses the portable foot restraint, and they install the battery, driving one EV one removes two handling aids called scoops.",
+            "animation_start": "331.0",
+            "animation_end": "333.0"
+        },
+        {
+            "index": 11,
+            "caption": "EV1 & EV2 install battery",
+            "transcript": "Next, EV one ingresses the portable foot restraint, and they install the battery, driving one EV one removes two handling aids called scoops.",
+            "animation_start": "333.0",
+            "animation_end": "350.0"
+        },
+        {
+            "index": 12,
+            "caption": "EV1 removes 2 handling aids",
+            "transcript": "Next, EV one ingresses the portable foot restraint, and they install the battery, driving one EV one removes two handling aids called scoops.",
+            "animation_start": "350.0",
+            "animation_end": "353.0"
+        },
+        {
+            "index": 13,
+            "caption": "Robotic arm moves exposed palette",
+            "transcript": "Next, EV one ingresses the portable foot restraint, and they install the battery, driving one EV one removes two handling aids called scoops. The robotic arm moves the exposed palette so EV one can access a new lithium own battery.",
+            "animation_start": "353.0",
+            "animation_end": "361.0"
+        },
+        {
+            "index": 14,
+            "caption": "EV1 installs handling aids",
+            "transcript": "The robotic arm moves the exposed palette so EV one can access a new lithium own battery. EV one install scoops, releases one bolt and removes the new battery.",
+            "animation_start": "361.0",
+            "animation_end": "366.0"
+        },
+        {
+            "index": 15,
+            "caption": "EV1 removes new battery",
+            "transcript": "EV one install scoops, releases one bolt and removes the new battery. The crew worked together to bring the new battery back to slot one.",
+            "animation_start": "366.0",
+            "animation_end": "382.0"
+        },
+        {
+            "index": 16,
+            "caption": "EV1 & EV2 bring battery to slot 1",
+            "transcript": "",
+            "animation_start": "382.0",
+            "animation_end": "392.0"
+        },
+        {
+            "index": 17,
+            "caption": "EV2 enters foot restraint",
+            "transcript": "They inspect the battery and drive two bolts to install it.",
+            "animation_start": "392.0",
+            "animation_end": "400.0"
+        },
+        {
+            "index": 18,
+            "caption": "EV2 installs new battery in slot 1",
+            "transcript": "Next, EV two moves the scoops to the old battery in slot two.",
+            "animation_start": "402.0",
+            "animation_end": "419.0"
+        },
+        {
+            "index": 19,
+            "caption": "EV2 moves handling aids to battery in slot 2",
+            "transcript": "Next, EV two moves the scoops to the old battery in slot two.",
+            "animation_start": "419.0",
+            "animation_end": "432.0"
+        },
+        {
+            "index": 20,
+            "caption": "EV2 moves foot restraint and enters it",
+            "transcript": "",
+            "animation_start": "432.0",
+            "animation_end": "437.0"
+        },
+        {
+            "index": 21,
+            "caption": "Break torque and release 2 bolts",
+            "transcript": "Hey, brake torque, and release two bolts.",
+            "animation_start": "437.0",
+            "animation_end": "458.0"
+        },
+        {
+            "index": 22,
+            "caption": "EV2 removes battery",
+            "transcript": "It lead to removes the battery, and the crew work together to shepherd it back to the exposed pelt.",
+            "animation_start": "458.0",
+            "animation_end": "461.0"
+        },
+        {
+            "index": 23,
+            "caption": "EV1 & EV2 take battery to exposed palette",
+            "transcript": "It lead to removes the battery, and the crew work together to shepherd it back to the exposed pelt.",
+            "animation_start": "461.0",
+            "animation_end": "473.0"
+        },
+        {
+            "index": 24,
+            "caption": "EV1 & EV2 remove adapter plate",
+            "transcript": "EV one ingresses the portable foot restraint temporarily stowing the old battery on her body restraint tether, then removes an adapter plate from the exposed palette. EV one, hands the adapter plate to EV two, who takes it back to slot two, while EV one installs the old battery onto the exposed palette.",
+            "animation_start": "482.0",
+            "animation_end": "498.0"
+        },
+        {
+            "index": 25,
+            "caption": "EV1 hands adapter plate to EV2",
+            "transcript": "EV one, hands the adapter plate to EV two, who takes it back to slot two, while EV one installs the old battery onto the exposed palette.",
+            "animation_start": "498.0",
+            "animation_end": "500.0"
+        },
+        {
+            "index": 26,
+            "caption": "EV1 installs battery on exposed palette",
+            "transcript": "Meanwhile, EV one installs the old battery onto the exposed pallet. EV one then joins EV two at the integrated equipment assembly, where EV two is fix and installs the adapter plate.",
+            "animation_start": "509.0",
+            "animation_end": "524.0"
+        },
+        {
+            "index": 27,
+            "caption": "EV1 joins EV2 at slot 2",
+            "transcript": "EV one then joins EV two at the integrated equipment assembly, where EV two is fix and installs the adapter plate.",
+            "animation_start": "524.0",
+            "animation_end": "528.0"
+        },
+        {
+            "index": 28,
+            "caption": "EV2 installs adapter plate in slot 2",
+            "transcript": "EV two drives two bolts, and then mates an electrical cable to complete that power channel pairing.",
+            "animation_start": "528.0",
+            "animation_end": "562.0"
+        },
+        {
+            "index": 29,
+            "caption": "EV1 & EV2 move to battery 3",
+            "transcript": "The crew move to battery three and release two bolts.",
+            "animation_start": "562.0",
+            "animation_end": "572.0"
+        },
+        {
+            "index": 30,
+            "caption": "Remove old battery from slot 3",
+            "transcript": "They remove the old battery and install that onto the adapter plate in slot two.",
+            "animation_start": "572.0",
+            "animation_end": "600.0"
+        },
+        {
+            "index": 31,
+            "caption": "Install old battery in slot 2",
+            "transcript": "",
+            "animation_start": "600.0",
+            "animation_end": "616.0"
+        },
+        {
+            "index": 32,
+            "caption": "EV1 enters foot restraint at exposed palette",
+            "transcript": "",
+            "animation_start": "616.0",
+            "animation_end": "620.0"
+        },
+        {
+            "index": 33,
+            "caption": "EV1 remove third battery from exposed palette",
+            "transcript": "EV one and EV two will remove a new lithium ion battery from the exposed pallet and install it into slot three.",
+            "animation_start": "620.0",
+            "animation_end": "632.0"
+        },
+        {
+            "index": 34,
+            "caption": "EV1 & EV2 bring battery to slot 3",
+            "transcript": "EV one and EV two will remove a new lithium ion battery from the exposed pallet and install it into slot three.",
+            "animation_start": "632.0",
+            "animation_end": "635.0"
+        },
+        {
+            "index": 35,
+            "caption": "EV1 hands EV2 the new battery",
+            "transcript": "",
+            "animation_start": "637.0",
+            "animation_end": "641.0"
+        },
+        {
+            "index": 36,
+            "caption": "EV1 & EV2 install battery in slot 3",
+            "transcript": "That completes the plan task for this EVA. If there is more time available, they will remove the old battery from slot four and install it on the exposed pallet, which is not shown in this video.",
+            "animation_start": "641.0",
+            "animation_end": "661.0"
+        },
+        {
+            "index": 37,
+            "caption": "Prep worksite for next EVA",
+            "transcript": "The crew will prep the worksite in preparation for the next EVA, then cleanup tools.",
+            "animation_start": "661.0",
+            "animation_end": "672.0"
+        },
+        {
+            "index": 38,
+            "caption": "Clean up tools",
+            "transcript": "The crew will prep the worksite in preparation for the next EVA, then cleanup tools. EV one retrieved her tool bag from the exposed palette.",
+            "animation_start": "672.0",
+            "animation_end": "683.0"
+        },
+        {
+            "index": 39,
+            "caption": "EV1 & EV2 return to airlock",
+            "transcript": "Then both crew returned to the airlock.",
+            "animation_start": "689.0",
+            "animation_end": "722.0"
+        },
+        {
+            "index": 40,
+            "caption": "EV1 & EV2 enter airlock",
+            "transcript": "Both crew then ingress the airlock completing the EVA.",
+            "animation_start": "722.0",
+            "animation_end": "732.0"
+        }
+    ],
+    "01252020": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "EV1 moves to CETA cart and sets up robotic arm",
+            "transcript": "Drew Morgan will be the EV one Spacewalker in riding the SSRMS cannon arm too.",
+            "animation_start": "505.0",
+            "animation_end": "509.0"
+        },
+        {
+            "index": 2,
+            "caption": "EV2 follows EV1",
+            "transcript": "Drew Morgan will be the EV one Spacewalker in riding the SSRMS cannon arm too. Here you see him translating up the Cetus spur to prepare the cannon arm too for the EPA followed by Luca.",
+            "animation_start": "509.0",
+            "animation_end": "515.0"
+        },
+        {
+            "index": 3,
+            "caption": "EV1 & EV2 set up an extender",
+            "transcript": "The arm will be for them on the front of the truss, and they will set up with extender to extend the reach of the arm, as well as a particularly portable foot restraint that will carry through to the AMS work site.",
+            "animation_start": "516.0",
+            "animation_end": "524.0"
+        },
+        {
+            "index": 4,
+            "caption": "EV1 enters foot restraint",
+            "transcript": "Hud Drew is in crossing the arm, Luca will collect a bag full of MOI, and he will translate out, to ELC too and prepare the worksite in bags and tools forgers arrival, EMS.",
+            "animation_start": "542.0",
+            "animation_end": "549.0"
+        },
+        {
+            "index": 5,
+            "caption": "EV2 collects a bag of MOI and prepares EL2 worksite",
+            "transcript": "",
+            "animation_start": "552.0",
+            "animation_end": "556.0"
+        },
+        {
+            "index": 6,
+            "caption": "Robotic arm moves EV1 to bottom of AMS",
+            "transcript": "Drew will then flying up over top of the ISS past AMS to wrap the arm around behind and underneath of AMS to start the leak checks at the nadir work site, where two fittings will have leak checks conducted.",
+            "animation_start": "556.0",
+            "animation_end": "572.0"
+        },
+        {
+            "index": 7,
+            "caption": "EV1 peel back the MLI, exposing two fittings, and perform leak checks",
+            "transcript": "Once Drew is at that works, I can peel back the ALI, exposing two fittings, and use the visual leak indicators to verify that they are leak tight.",
+            "animation_start": "585.0",
+            "animation_end": "592.0"
+        },
+        {
+            "index": 8,
+            "caption": "Robotic arm moves EV1 to zenith side of AMS",
+            "transcript": "Once Drew is at that works, I can peel back the ALI, exposing two fittings, and use the visual leak indicators to verify that they are leak tight.",
+            "animation_start": "593.0",
+            "animation_end": "596.0"
+        },
+        {
+            "index": 9,
+            "caption": "EV1 removes flap and cap on AMS new radiator system",
+            "transcript": "Through flies up to the zenith side of AMS to remove the mud flap and a shower cap to expose the AMS new radiator system.",
+            "animation_start": "605.0",
+            "animation_end": "609.0"
+        },
+        {
+            "index": 10,
+            "caption": "EV1 and EV2 install an MLI tent underneath of the AMS pump system",
+            "transcript": "Luco and Drew also work together to install an MLI tent underneath of the AMS pump system to close out the former debris shield worksite.",
+            "animation_start": "614.0",
+            "animation_end": "620.0"
+        },
+        {
+            "index": 11,
+            "caption": "EV1 and EV2 clean up ELC 2",
+            "transcript": "With the eight leak check, in the MLI installed, and those are complete. The crew will clean up ELC two, and Drew will start flying back to the airlock while Luca removes the foot restraint from ELC two two translates it back to the front of the station for future UPS.",
+            "animation_start": "624.0",
+            "animation_end": "629.0"
+        },
+        {
+            "index": 12,
+            "caption": "EV2 removes the foot restraint from ELC 2",
+            "transcript": "The crew will clean up ELC two, and Drew will start flying back to the airlock while Luca removes the foot restraint from ELC two two translates it back to the front of the station for future UPS.",
+            "animation_start": "633.0",
+            "animation_end": "652.0"
+        },
+        {
+            "index": 13,
+            "caption": "EV2 translates the foot restraint back to the station",
+            "transcript": "",
+            "animation_start": "652.0",
+            "animation_end": "653.0"
+        },
+        {
+            "index": 14,
+            "caption": "Robotic arm moves EV1 back to phase one",
+            "transcript": "Drew will fly from the zenith side of AMS, back over top of the trust back to phase one to deconfigure the arm.",
+            "animation_start": "653.0",
+            "animation_end": "663.0"
+        },
+        {
+            "index": 15,
+            "caption": "EV1 de-configures the arm and stows all bags",
+            "transcript": "Once the SSRMS is deconfigured, and all the backs have been towed.",
+            "animation_start": "666.0",
+            "animation_end": "668.0"
+        },
+        {
+            "index": 16,
+            "caption": "EV1 performs some get aheads including filter removals and battery get aheads",
+            "transcript": "Once the SSRMS is deconfigured, and all the backs have been towed. If the crew has any remaining time, they'll, form some get a heads including some unfilter removals and battery get a heads to prepare for future EVAs.",
+            "animation_start": "669.0",
+            "animation_end": "679.0"
+        }
+    ],
+    "01272021": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "EV1 & EV2 exit airlock with CoKA",
+            "transcript": "US EVA coal upgrades is going to begin with EV one, egressing the Questair lock first. The crew is going to be bringing out with them the Kalka, which stands for the Columbus KA band antenna. This hardware is going to be installed on the Columbus module during this EVA.",
+            "animation_start": "269.0",
+            "animation_end": "286.0"
+        },
+        {
+            "index": 2,
+            "caption": "EV1 move to Columbus module",
+            "transcript": "This hardware is going to be installed on the Columbus module during this EVA. EV one is going to translate out to the Columbus module via the translation path you can see here. And we'll need to set up a few things at the work site before that installation.",
+            "animation_start": "286.0",
+            "animation_end": "299.0"
+        },
+        {
+            "index": 3,
+            "caption": "EV2 move to ESP2",
+            "transcript": "EV two is going to translate to an external platform called ESP two, where he is going to be ingressing the SSRMS, the robotic arm.",
+            "animation_start": "299.0",
+            "animation_end": "309.0"
+        },
+        {
+            "index": 4,
+            "caption": "EV2 enter robotic arm",
+            "transcript": "EV two is going to translate to an external platform called ESP two, where he is going to be ingressing the SSRMS, the robotic arm. The robotic arm is going to be taking him over to the Columbus worksite with the polka So the crew members are gonna meet up at the worksite.",
+            "animation_start": "309.0",
+            "animation_end": "314.0"
+        },
+        {
+            "index": 5,
+            "caption": "Robotic arm takes EV2 to CoKA worksite",
+            "transcript": "The robotic arm is going to be taking him over to the Columbus worksite with the polka So the crew members are gonna meet up at the worksite. They need to remove bolts that are on the Columbus panels.",
+            "animation_start": "314.0",
+            "animation_end": "320.0"
+        },
+        {
+            "index": 6,
+            "caption": "Remove bolts from Columbus panels",
+            "transcript": "They need to remove bolts that are on the Columbus panels. Where those bolts are removed is where the co pay is going to be installed.",
+            "animation_start": "320.0",
+            "animation_end": "326.0"
+        },
+        {
+            "index": 7,
+            "caption": "Secure CoKa to Columbus module",
+            "transcript": "Where those bolts are removed is where the co pay is going to be installed. So they work together securing co pay to the Columbus module. Once it is secure, b b two is going to route the cabling for that polka and plug it into the Columbus module.",
+            "animation_start": "326.0",
+            "animation_end": "339.0"
+        },
+        {
+            "index": 8,
+            "caption": "EV2 routes cabling for CoKA",
+            "transcript": "Once it is secure, b b two is going to route the cabling for that polka and plug it into the Columbus module.",
+            "animation_start": "339.0",
+            "animation_end": "348.0"
+        },
+        {
+            "index": 9,
+            "caption": "EV1 opens clamps on Bartolomeo platform",
+            "transcript": "Meanwhile, EV one is going to head to the Bartolomeo form. So Bartlemeo is an external platform in which payloads can be installed. There are plants that need to be opened up in order to remove the cabling that needs to get routed in order to activate the bartle male form so the crew works together to get those cables routed and installed.",
+            "animation_start": "348.0",
+            "animation_end": "366.0"
+        },
+        {
+            "index": 10,
+            "caption": "Route & install cables for Bartolomeo",
+            "transcript": "There are plants that need to be opened up in order to remove the cabling that needs to get routed in order to activate the bartle male form so the crew works together to get those cables routed and installed.",
+            "animation_start": "366.0",
+            "animation_end": "375.0"
+        },
+        {
+            "index": 11,
+            "caption": "EV1 remove & route cable for antenna on Bartolomeo",
+            "transcript": "There are plants that need to be opened up in order to remove the cabling that needs to get routed in order to activate the bartle male form so the crew works together to get those cables routed and installed. EV one also needs to remove another set of labeling that is going to hook up an antenna for Barto La mayo that you can secure.",
+            "animation_start": "375.0",
+            "animation_end": "385.0"
+        },
+        {
+            "index": 12,
+            "caption": "Remove cover from CoKA",
+            "transcript": "EV one also needs to remove another set of labeling that is going to hook up an antenna for Barto La mayo that you can secure. Once Barto Lomeo is complete, the crew members are going to go back to the polka and remove a cover. So the cover was installed in order to protect the antenna during installation.",
+            "animation_start": "385.0",
+            "animation_end": "397.0"
+        },
+        {
+            "index": 13,
+            "caption": "EV2 jettison cover on robotic arm",
+            "transcript": "So the cover was installed in order to protect the antenna during installation. Since it's no longer needed, we are going to have EV two jettison that cover while he's on the SSRMS. And once the activities are complete.",
+            "animation_start": "397.0",
+            "animation_end": "418.0"
+        },
+        {
+            "index": 14,
+            "caption": "Reconfigure bags at airlock",
+            "transcript": "At the Columbus worksite, both crew members meet back up at the Quest Airlock. They reconfigures some bags to take out with them for their next task, which is going to be out at the port most section of the space station trust.",
+            "animation_start": "418.0",
+            "animation_end": "427.0"
+        },
+        {
+            "index": 15,
+            "caption": "Move to P6",
+            "transcript": "They reconfigures some bags to take out with them for their next task, which is going to be out at the port most section of the space station trust. They're going to be heading out to p six. You can see the translation path here. And the crew members are going to be removing an h fixture. So this h fixture is not needed on the solar arrays. So we're going to remove that h fixture. Both of them are going to be removing one of them. And this plate is going to be removed because it's going to be where a future upgrade of the solar arrays is going to be installed.",
+            "animation_start": "427.0",
+            "animation_end": "464.0"
+        },
+        {
+            "index": 16,
+            "caption": "Remove H fixture and stow in bag",
+            "transcript": "And this plate is going to be removed because it's going to be where a future upgrade of the solar arrays is going to be installed. So the plates are removed, put into a bag, and they will be brought back inside.",
+            "animation_start": "464.0",
+            "animation_end": "474.0"
+        },
+        {
+            "index": 17,
+            "caption": "Return to airlock",
+            "transcript": "After the EVA. So once both crew members are complete with that, they both head back to the Quest Air and we have completed the plan tests for the UDA.",
+            "animation_start": "474.0",
+            "animation_end": "478.0"
+        },
+        {
+            "index": 18,
+            "caption": "Enter airlock",
+            "transcript": "So once both crew members are complete with that, they both head back to the Quest Air and we have completed the plan tests for the UDA. If there is some time at the end of the UDA, we will have some get aheads for the crew to perform.",
+            "animation_start": "478.0",
+            "animation_end": "492.0"
+        }
+    ],
+    "02012021": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "EV1 move to 4A integrated equipment assembly",
+            "transcript": "Translate to the four alpha integrated equipment assembly.",
+            "animation_start": "153.0",
+            "animation_end": "157.0"
+        },
+        {
+            "index": 2,
+            "caption": "EV1 install scoop on direct current switching unit",
+            "transcript": "Translate to the four alpha integrated equipment assembly. Where EV one installs a scoop on the direct current switching unit, and EV two stows a tool bag onto the adapter plate.",
+            "animation_start": "157.0",
+            "animation_end": "162.0"
+        },
+        {
+            "index": 3,
+            "caption": "EV1 & EV2 remove adapter plate from slot 2 and move it to slot 6",
+            "transcript": "Where EV one installs a scoop on the direct current switching unit, and EV two stows a tool bag onto the adapter plate. The crew work together to remove the adapter plate from slot two and bring it to slot six.",
+            "animation_start": "167.0",
+            "animation_end": "179.0"
+        },
+        {
+            "index": 4,
+            "caption": "EV1 & EV2 install adapter plate in slot 6",
+            "transcript": "To install the adapter plate, The EV crew drive two bolts on the adapter plate. EV one drives one bolt on the lithium ion battery in slot five.",
+            "animation_start": "179.0",
+            "animation_end": "192.0"
+        },
+        {
+            "index": 5,
+            "caption": "EV2 breaks and resets torque on direct current switching unit",
+            "transcript": "EV two uses a ratchet wrench to break torque on the direct current switching unit and then resets the torque at a lower value with the pistol grip tool.",
+            "animation_start": "197.0",
+            "animation_end": "212.0"
+        },
+        {
+            "index": 6,
+            "caption": "EV2 connects adapter plate to battery",
+            "transcript": "EV two connects the adapter plate to the lithium ion battery, completing the circuit for the four alpha three channel.",
+            "animation_start": "212.0",
+            "animation_end": "221.0"
+        },
+        {
+            "index": 7,
+            "caption": "EV1 removes H fixture",
+            "transcript": "EV one translates to the four alpha beta gimbal simply. EV one removes the H fixture in preparation for a future EVA.",
+            "animation_start": "229.0",
+            "animation_end": "237.0"
+        },
+        {
+            "index": 8,
+            "caption": "EV1 returns to airlock",
+            "transcript": "EV one then returns to the airlock.",
+            "animation_start": "237.0",
+            "animation_end": "243.0"
+        },
+        {
+            "index": 9,
+            "caption": "EV2 goes to external stowage platform 2",
+            "transcript": "EV two previously returned to the airlock and now goes to the external stowage platform two.",
+            "animation_start": "243.0",
+            "animation_end": "249.0"
+        }
+    ],
+    "06162021": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "EV1 & EV2 exit airlock",
+            "transcript": "At the start of the EVA, EV one, Tomah Pescue comes out first, followed by EV two Shane Kimbrough.",
+            "animation_start": "842.0",
+            "animation_end": "848.0"
+        },
+        {
+            "index": 2,
+            "caption": "EV1 heads outward and places safety tether anchors",
+            "transcript": "At the start of the EVA, EV one, Tomah Pescue comes out first, followed by EV two Shane Kimbrough. Tomah translates up to the front face of the truck and translates outboard. Tamaz is setting up what we refer to as safety tether anchors. At this point, he'll drop the her point for both he and Shane.",
+            "animation_start": "848.0",
+            "animation_end": "863.0"
+        },
+        {
+            "index": 3,
+            "caption": "EV2 retrieves foot restraint",
+            "transcript": "At this point, he'll drop the her point for both he and Shane. Shane will be retrieving an articulating portable foot restraint and putting his stowage bag onto it for translation outboard.",
+            "animation_start": "863.0",
+            "animation_end": "869.0"
+        },
+        {
+            "index": 4,
+            "caption": "EV1 goes to carrier with solar array",
+            "transcript": "Shane will be retrieving an articulating portable foot restraint and putting his stowage bag onto it for translation outboard. Taman makes his way out to the carrier that has the solar a stowed on it.",
+            "animation_start": "869.0",
+            "animation_end": "874.0"
+        },
+        {
+            "index": 5,
+            "caption": "EV1 & EV2 drop of PGT and bags",
+            "transcript": "Shane follows along the truss and beats Taman at the carrier. The crew drops off, pistol grip tools, and bags, in preparation for releasing Irosa from the carrier.",
+            "animation_start": "878.0",
+            "animation_end": "883.0"
+        },
+        {
+            "index": 6,
+            "caption": "EV2 stows foot restraint and bag",
+            "transcript": "The crew drops off, pistol grip tools, and bags, in preparation for releasing Irosa from the carrier. Shane makes his way outboard onto the p six truss element. And stows the articulating portable foot restraint that he'll be using later on in the EVA. Continue translating outboard to the very end of the truss and owes his stowage bag.",
+            "animation_start": "883.0",
+            "animation_end": "899.0"
+        },
+        {
+            "index": 7,
+            "caption": "EV1 preps iROSA for removal",
+            "transcript": "Continue translating outboard to the very end of the truss and owes his stowage bag. Toma prepares the Irosa by releasing the first hinge bolt, and stowing his pistol grip tool. Tomma makes his way outboard and releases an anti rotation device, which keeps the primary bolt locked in place during launch loads. Tomma retrieves, a handling aid for Irosa, we refer to this as a scoop.",
+            "animation_start": "899.0",
+            "animation_end": "919.0"
+        },
+        {
+            "index": 8,
+            "caption": "EV2 installs bag and tools on mod kit",
+            "transcript": "Tomma retrieves, a handling aid for Irosa, we refer to this as a scoop. Meanwhile, Shane retrieves a crew lock bag and installs it on the lower support truss of the mod kit. He retrieves another scoop, another handling aid, and installs it on the mounting bracket of the mod kit.",
+            "animation_start": "919.0",
+            "animation_end": "933.0"
+        },
+        {
+            "index": 9,
+            "caption": "EV2 sets up cables for future installation",
+            "transcript": "He retrieves another scoop, another handling aid, and installs it on the mounting bracket of the mod kit. Shane retrieves one of the two sets of cables and pre positions them for future installation.",
+            "animation_start": "933.0",
+            "animation_end": "940.0"
+        },
+        {
+            "index": 10,
+            "caption": "EV2 retrieves PGT and goes to EV1",
+            "transcript": "Chane retrieves his pistol grip tool and makes his way back inboard to join Tomah.",
+            "animation_start": "940.0",
+            "animation_end": "947.0"
+        },
+        {
+            "index": 11,
+            "caption": "EV1 does more prep for iROSA removal",
+            "transcript": "Tamah prepares the release bolts down to the last few turns. Thman stalls one of the handling aids and makes his way back around Irosa. He changes out his pistol grip tool and makes his way down to the crew and equipment translation aid, or c to cart, and retrieves the foot restraint that he'll use on the end of the arm for his work with thyrosin.",
+            "animation_start": "947.0",
+            "animation_end": "958.0"
+        },
+        {
+            "index": 12,
+            "caption": "EV1 retrieves foot restraint from CETA cart",
+            "transcript": "He changes out his pistol grip tool and makes his way down to the crew and equipment translation aid, or c to cart, and retrieves the foot restraint that he'll use on the end of the arm for his work with thyrosin.",
+            "animation_start": "958.0",
+            "animation_end": "969.0"
+        },
+        {
+            "index": 13,
+            "caption": "EV1 installs, sets up, and enters foot restraint",
+            "transcript": "Installs the foot restraint at the end of the arm, puts it in the right position, and ingresses the arm.",
+            "animation_start": "969.0",
+            "animation_end": "975.0"
+        },
+        {
+            "index": 14,
+            "caption": "EV1 removes bolts on iROSA",
+            "transcript": "Installs the foot restraint at the end of the arm, puts it in the right position, and ingresses the arm. The arm then flies him into position, To drive two bolts that are on the boom deployment system. Once these bolts have been released, the booms can be moved outward, and this will help with the release of the solar a when it's eventually deployed. Tuma drives two of the outboard launch restraint bolts that hold the tube in place.",
+            "animation_start": "975.0",
+            "animation_end": "997.0"
+        },
+        {
+            "index": 15,
+            "caption": "Robotic arm moves EV1 into position",
+            "transcript": "Tuma drives two of the outboard launch restraint bolts that hold the tube in place. And the arm maneuvers him for release of Irosa from the carrier.",
+            "animation_start": "997.0",
+            "animation_end": "1001.0"
+        },
+        {
+            "index": 16,
+            "caption": "EV2 gets into position for iROSA release",
+            "transcript": "And the arm maneuvers him for release of Irosa from the carrier. Meanwhile, Shane makes his way over to the carrier and gets into position for Shane drives the last few turns on the release bolts, and now the Irosa solerae has been released from the flight support equipment.",
+            "animation_start": "1001.0",
+            "animation_end": "1006.0"
+        },
+        {
+            "index": 17,
+            "caption": "EV2 prepares iROSA for release",
+            "transcript": "Meanwhile, Shane makes his way over to the carrier and gets into position for Shane drives the last few turns on the release bolts, and now the Irosa solerae has been released from the flight support equipment. He installs a handling aid, and Thomas is able to slide Irosa off of the carrier and remove it.",
+            "animation_start": "1006.0",
+            "animation_end": "1016.0"
+        },
+        {
+            "index": 18,
+            "caption": "EV1 removes iROSA",
+            "transcript": "He installs a handling aid, and Thomas is able to slide Irosa off of the carrier and remove it. Meanwhile, Shane is keeping an eye on the whole system to make sure that Irosa does not come into contact with the RMS grapple fixture and away Tomago's with Irosa. Meanwhile, Shane gets off of the carrier and translates outboard.",
+            "animation_start": "1016.0",
+            "animation_end": "1031.0"
+        },
+        {
+            "index": 19,
+            "caption": "EV2 stows tools and enters foot restraint",
+            "transcript": "Meanwhile, Shane gets off of the carrier and translates outboard. He'll stow Tomah's safety tether hook. In preparation for when Tomak comes off of the arm, and he'll continue his path outboard. He stows his pistol grip tool, makes his way to his foot restraint and ingresses. While he's getting into his foot restraint, Tamaz is continuing his path, holding on to Irosa while arm flies him as far outboard as it can reach.",
+            "animation_start": "1031.0",
+            "animation_end": "1050.0"
+        },
+        {
+            "index": 20,
+            "caption": "EV1 carries iROSA on robotic arm to EV2",
+            "transcript": "While he's getting into his foot restraint, Tamaz is continuing his path, holding on to Irosa while arm flies him as far outboard as it can reach.",
+            "animation_start": "1050.0",
+            "animation_end": "1057.0"
+        },
+        {
+            "index": 21,
+            "caption": "EV1 hands iROSA to EV2",
+            "transcript": "While he's getting into his foot restraint, Tamaz is continuing his path, holding on to Irosa while arm flies him as far outboard as it can reach. He hands off the Irosa to Shane. They swap tethers, Shane has control of Irosa in his left holding it, Altima goes back to his egress position and gets out of the arm, changes his safety tether, and makes his way back to where Shane is holding Irosa.",
+            "animation_start": "1057.0",
+            "animation_end": "1064.0"
+        },
+        {
+            "index": 22,
+            "caption": "EV1 exits foot restraint and goes to EV2",
+            "transcript": "They swap tethers, Shane has control of Irosa in his left holding it, Altima goes back to his egress position and gets out of the arm, changes his safety tether, and makes his way back to where Shane is holding Irosa.",
+            "animation_start": "1064.0",
+            "animation_end": "1074.0"
+        },
+        {
+            "index": 23,
+            "caption": "EV2 rotates into position",
+            "transcript": "He then rotates Shane into position so that Irosa is handed off to the next point to ma ingress his foot restraint and receives Irosa.",
+            "animation_start": "1074.0",
+            "animation_end": "1076.0"
+        },
+        {
+            "index": 24,
+            "caption": "EV1 enters foot restraint and receives iROSA",
+            "transcript": "He then rotates Shane into position so that Irosa is handed off to the next point to ma ingress his foot restraint and receives Irosa.",
+            "animation_start": "1076.0",
+            "animation_end": "1083.0"
+        },
+        {
+            "index": 25,
+            "caption": "EV2 exits foot restraint and gets into position",
+            "transcript": "He then rotates Shane into position so that Irosa is handed off to the next point to ma ingress his foot restraint and receives Irosa. Shane egresses his foot restraint moves out board and gets into position to help Toma install Irosa onto its final location on the mod kit.",
+            "animation_start": "1083.0",
+            "animation_end": "1093.0"
+        },
+        {
+            "index": 26,
+            "caption": "EV1 & EV2 install iROSA",
+            "transcript": "Shane egresses his foot restraint moves out board and gets into position to help Toma install Irosa onto its final location on the mod kit. One of the two handling aids is removed before installing onto this mounting bracket, the two crew members work together to align it and put it into a capture feature. Once it's installed, the other handling aid is removed, final hinge restraint bolt is loosened.",
+            "animation_start": "1093.0",
+            "animation_end": "1109.0"
+        },
+        {
+            "index": 27,
+            "caption": "EV1 & EV2 swing iROSA into single tube",
+            "transcript": "And Irosa is now able to rotate into its fully deployed, fully extended position. The two crew members work together to swing it into the single tube Once it is in position, Shane stows the two handling aids, Toma gets into position to drive the hinge bolts.",
+            "animation_start": "1109.0",
+            "animation_end": "1119.0"
+        },
+        {
+            "index": 28,
+            "caption": "EV1 & EV2 drive mounting bolts",
+            "transcript": "Once that's in place, there are eight mounting bolts that hold all of the Irosa solerae onto the mounting bracket. Tamara will drive the first four followed by Shane driving the second set of four.",
+            "animation_start": "1142.0",
+            "animation_end": "1156.0"
+        },
+        {
+            "index": 29,
+            "caption": "EV1 & EV2 clean up and prep for next EVA",
+            "transcript": "Once Irosa has been fully deployed, there are some checkout steps that are performed to make sure that everything is hooked up correctly, and the crew cleans up the site. They retrieve the handling aids and the pistol grip tools, and they prepare for the second EVA in the series. To do this, they take their foot restraints and move them to the other side of the P6 trust structure. This will be the worksite for the second EVA. Each crew member has their own foot restraint, and they'll move them to the other side. The crew repositions, stowage bag that's holding the other set of cables, to the other side of the truss, repositions it for the next DBA.",
+            "animation_start": "1207.0",
+            "animation_end": "1234.0"
+        },
+        {
+            "index": 30,
+            "caption": "EV1 & EV2 return to airlock",
+            "transcript": "The crew repositions, stowage bag that's holding the other set of cables, to the other side of the truss, repositions it for the next DBA. The crew will do an inventory of all their tools and their hardware, then they'll start their path back to the airlock. On their way back, They'll stop at the carrier, pick up the last crew lock bag and the last pistol grip tool, and make their way inboard.",
+            "animation_start": "1234.0",
+            "animation_end": "1247.0"
+        },
+        {
+            "index": 31,
+            "caption": "EV1 & EV2 enter airlock",
+            "transcript": "When both crew members are back at the airlock, they'll retrieve a foot restraint that has been causing us problems and bring it inside the airlock to inspect. Shane will enter the airlock followed by Thomas, and that ends the first DVA.",
+            "animation_start": "1256.0",
+            "animation_end": "1262.0"
+        }
+    ],
+    "10062019": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "EV1 exits airlock",
+            "transcript": "At the start of the first EVA, EV one comes out of the airlock, retrieves the bag and puts it on the BRT, my body restraint tether.",
+            "animation_start": "482.0",
+            "animation_end": "486.0"
+        },
+        {
+            "index": 2,
+            "caption": "EV1 retrieves bag and put it on BRT",
+            "transcript": "At the start of the first EVA, EV one comes out of the airlock, retrieves the bag and puts it on the BRT, my body restraint tether.",
+            "animation_start": "486.0",
+            "animation_end": "488.0"
+        },
+        {
+            "index": 3,
+            "caption": "EV1 translates to port side onto P1",
+            "transcript": "At the start of the first EVA, EV one comes out of the airlock, retrieves the bag and puts it on the BRT, my body restraint tether. Filed by EV two. EV one translates up to the truss, out to the port side, onto p one, to drop off the anchor points for the safety tethers.",
+            "animation_start": "490.0",
+            "animation_end": "499.0"
+        },
+        {
+            "index": 4,
+            "caption": "EV2 puts bag on portable foot restraing",
+            "transcript": "EV one translates up to the truss, out to the port side, onto p one, to drop off the anchor points for the safety tethers. EV two takes a bag and puts it on the articulating portable foot string.",
+            "animation_start": "503.0",
+            "animation_end": "509.0"
+        },
+        {
+            "index": 5,
+            "caption": "EV1 translates to CETA",
+            "transcript": "EV two takes a bag and puts it on the articulating portable foot string. EV one continues translating for their outboard onto the crew and equipment translation aid.",
+            "animation_start": "509.0",
+            "animation_end": "518.0"
+        },
+        {
+            "index": 6,
+            "caption": "EV2 translates to P6 truss",
+            "transcript": "EV one continues translating for their outboard onto the crew and equipment translation aid. Followed by EV two, who translates up onto the truss and continues further out onto the p six truss.",
+            "animation_start": "518.0",
+            "animation_end": "530.0"
+        },
+        {
+            "index": 7,
+            "caption": "EV2 drops off foot restraint",
+            "transcript": "If you two will drop off the foot restraint.",
+            "animation_start": "530.0",
+            "animation_end": "534.0"
+        },
+        {
+            "index": 8,
+            "caption": "EV1 stows bag",
+            "transcript": "If you two will drop off the foot restraint. An EV one will attach a bag to a foot restraint, and continue translating upward.",
+            "animation_start": "534.0",
+            "animation_end": "540.0"
+        },
+        {
+            "index": 9,
+            "caption": "EV1 translates upward",
+            "transcript": "An EV one will attach a bag to a foot restraint, and continue translating upward.",
+            "animation_start": "540.0",
+            "animation_end": "548.0"
+        },
+        {
+            "index": 10,
+            "caption": "EV1 relocates bag to exposed palette",
+            "transcript": "Remove the bag and relocate it to the exposed pallet.",
+            "animation_start": "555.0",
+            "animation_end": "562.0"
+        },
+        {
+            "index": 11,
+            "caption": "EV1 & EV2 install gap spanners",
+            "transcript": "If you two, we'll remove a bag and stow it at the integrated equipment assembly. Both crew members will install what are called gap scanners, which allow them to translate on the integrated equipment assembly.",
+            "animation_start": "569.0",
+            "animation_end": "578.0"
+        },
+        {
+            "index": 12,
+            "caption": "EV2 relocates pistol grip tool",
+            "transcript": "Both crew members will install what are called gap scanners, which allow them to translate on the integrated equipment assembly. If you too will relocate a pistol grip tool for future use.",
+            "animation_start": "578.0",
+            "animation_end": "583.0"
+        },
+        {
+            "index": 13,
+            "caption": "EV1 & EV2 install scoops",
+            "transcript": "If you too will relocate a pistol grip tool for future use. The crew members install what we call scoops, which are handling aids, for the batteries.",
+            "animation_start": "583.0",
+            "animation_end": "587.0"
+        },
+        {
+            "index": 14,
+            "caption": "EV2 ingresses foot restraint",
+            "transcript": "The crew members install what we call scoops, which are handling aids, for the batteries. If you two ingresses the foot restraint, And the two crew members remove the first of the nickel hydrogen batteries, the old batteries.",
+            "animation_start": "587.0",
+            "animation_end": "592.0"
+        },
+        {
+            "index": 15,
+            "caption": "EV1 & EV2 remove the first battery",
+            "transcript": "If you two ingresses the foot restraint, And the two crew members remove the first of the nickel hydrogen batteries, the old batteries.",
+            "animation_start": "592.0",
+            "animation_end": "600.0"
+        },
+        {
+            "index": 16,
+            "caption": "EV1 & EV2 take the battery to exposed palette",
+            "transcript": "The two crew members, shepherd the battery between the two of them, from the IEA over to the exposed pallet.",
+            "animation_start": "600.0",
+            "animation_end": "609.0"
+        },
+        {
+            "index": 17,
+            "caption": "EV1 ingresses foot restraint",
+            "transcript": "EV one ingresses, the foot restraint, and the two crew members stow the old battery onto the exposed pallet.",
+            "animation_start": "609.0",
+            "animation_end": "612.0"
+        },
+        {
+            "index": 18,
+            "caption": "EV1 & EV2 stow the battery onto exposed palette",
+            "transcript": "EV one ingresses, the foot restraint, and the two crew members stow the old battery onto the exposed pallet.",
+            "animation_start": "612.0",
+            "animation_end": "621.0"
+        },
+        {
+            "index": 19,
+            "caption": "EV1 removes scoops",
+            "transcript": "EV one removes the scoops, and the station arm operator relocates the exposed pallet to position the new lithium ion battery in front of EV one.",
+            "animation_start": "621.0",
+            "animation_end": "626.0"
+        },
+        {
+            "index": 20,
+            "caption": "Station arm operator relocates exposed palette",
+            "transcript": "EV one removes the scoops, and the station arm operator relocates the exposed pallet to position the new lithium ion battery in front of EV one.",
+            "animation_start": "626.0",
+            "animation_end": "636.0"
+        },
+        {
+            "index": 21,
+            "caption": "EV1 installs scoops",
+            "transcript": "EV one removes the scoops, and the station arm operator relocates the exposed pallet to position the new lithium ion battery in front of EV one. If you want installs the scoops, and releases the new lithium ion battery.",
+            "animation_start": "636.0",
+            "animation_end": "641.0"
+        },
+        {
+            "index": 22,
+            "caption": "EV1 releases new battery",
+            "transcript": "If you want installs the scoops, and releases the new lithium ion battery.",
+            "animation_start": "641.0",
+            "animation_end": "647.0"
+        },
+        {
+            "index": 23,
+            "caption": "EV1 & EV2 take the battery to integrated equipment assembly",
+            "transcript": "If you want hands the battery to EV two, and the two crew members shepherd the new battery out to the integrated equipment assembly.",
+            "animation_start": "649.0",
+            "animation_end": "655.0"
+        },
+        {
+            "index": 24,
+            "caption": "EV2 ingresses foot restraint",
+            "transcript": "If you want hands the battery to EV two, and the two crew members shepherd the new battery out to the integrated equipment assembly. If he two ingresses the foot restraint, and if he one hands the new battery over.",
+            "animation_start": "655.0",
+            "animation_end": "658.0"
+        },
+        {
+            "index": 25,
+            "caption": "EV1 hands the battery to EV2",
+            "transcript": "If he two ingresses the foot restraint, and if he one hands the new battery over.",
+            "animation_start": "658.0",
+            "animation_end": "663.0"
+        },
+        {
+            "index": 26,
+            "caption": "EV1 & EV2 install the battery onto integrated equipment assembly",
+            "transcript": "The two crew members install the lithium ion battery onto the integrated equipment assembly.",
+            "animation_start": "663.0",
+            "animation_end": "671.0"
+        },
+        {
+            "index": 27,
+            "caption": "Remove scoops",
+            "transcript": "And remove the scoops.",
+            "animation_start": "671.0",
+            "animation_end": "676.0"
+        },
+        {
+            "index": 28,
+            "caption": "EV2 relocates foot restraint",
+            "transcript": "EV two relocates the foot restraint.",
+            "animation_start": "676.0",
+            "animation_end": "682.0"
+        },
+        {
+            "index": 29,
+            "caption": "Remove the next battery",
+            "transcript": "They prepared to remove the next old battery.",
+            "animation_start": "682.0",
+            "animation_end": "689.0"
+        },
+        {
+            "index": 30,
+            "caption": "EV2 hands the battery to EV1",
+            "transcript": "If you two removes the battery, hands it over to EV one, and the two crew members, Shepard, The old battery back to the exposed pallet.",
+            "animation_start": "689.0",
+            "animation_end": "692.0"
+        },
+        {
+            "index": 31,
+            "caption": "EV1 & EV2 take the battery to exposed palette",
+            "transcript": "If you two removes the battery, hands it over to EV one, and the two crew members, Shepard, The old battery back to the exposed pallet.",
+            "animation_start": "692.0",
+            "animation_end": "700.0"
+        },
+        {
+            "index": 32,
+            "caption": "EV2 hands the battery to EV1 and stows on BRT",
+            "transcript": "If you won ingress as the foot restraint, while leaving two hands, the old battery over, and it stowed on the body restraint tether.",
+            "animation_start": "703.0",
+            "animation_end": "711.0"
+        },
+        {
+            "index": 33,
+            "caption": "EV1 & EV2 release adapter plate",
+            "transcript": "The two crew members, release the adapter plate, then EV two stows that on the BRT.",
+            "animation_start": "711.0",
+            "animation_end": "715.0"
+        },
+        {
+            "index": 34,
+            "caption": "EV2 stows adapter plate on BRT",
+            "transcript": "The two crew members, release the adapter plate, then EV two stows that on the BRT.",
+            "animation_start": "715.0",
+            "animation_end": "718.0"
+        },
+        {
+            "index": 35,
+            "caption": "EV2 translates to integrated equipment assembly",
+            "transcript": "EV two translates out integrated equipment assembly, while EV one stows the old battery on the exposed pallet.",
+            "animation_start": "718.0",
+            "animation_end": "721.0"
+        },
+        {
+            "index": 36,
+            "caption": "EV1 translates to integrated equipment assembly",
+            "transcript": "EV one, joins EV two, and the two crew members install the adapter plate.",
+            "animation_start": "729.0",
+            "animation_end": "734.0"
+        },
+        {
+            "index": 37,
+            "caption": "EV1 & EV2 install adapter plate",
+            "transcript": "EV one, joins EV two, and the two crew members install the adapter plate.",
+            "animation_start": "734.0",
+            "animation_end": "740.0"
+        },
+        {
+            "index": 38,
+            "caption": "EV2 attaches the cable between adapter plate and battery",
+            "transcript": "EV two, attaches the cable between the adapter plate and the lithium ion battery, and that completes the circuit.",
+            "animation_start": "740.0",
+            "animation_end": "752.0"
+        },
+        {
+            "index": 39,
+            "caption": "EV1 retrieves bag",
+            "transcript": "EV two, attaches the cable between the adapter plate and the lithium ion battery, and that completes the circuit. V one retrieves the bag.",
+            "animation_start": "752.0",
+            "animation_end": "759.0"
+        },
+        {
+            "index": 40,
+            "caption": "EV2 retrieves pistol grip tool",
+            "transcript": "While EV two retrieves the pistol grip tool, and the two crew members translate back to the airlock to complete the first EVA.",
+            "animation_start": "759.0",
+            "animation_end": "769.0"
+        },
+        {
+            "index": 41,
+            "caption": "EV1 & EV2 translate to airlock",
+            "transcript": "While EV two retrieves the pistol grip tool, and the two crew members translate back to the airlock to complete the first EVA.",
+            "animation_start": "769.0",
+            "animation_end": "774.0"
+        },
+        {
+            "index": 42,
+            "caption": "EV1 & EV2 enter airlock",
+            "transcript": "EV two ingresses first followed by EV one.",
+            "animation_start": "774.0",
+            "animation_end": "780.0"
+        },
+        {
+            "index": 43,
+            "caption": "EV1 hands new battery to EV2",
+            "transcript": "If you want hands the battery to EV two, and the two crew members shepherd the new battery out to the integrated equipment assembly.",
+            "animation_start": "647.0",
+            "animation_end": "649.0"
+        }
+    ],
+    "11152019": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "Luca and Drew exit airlock",
+            "transcript": "Crew will be starting out on the first of the AMS repair EVAs. Here we've got Luca Parmatano as EV one, and Drew Morgan as EV two.",
+            "animation_start": "590.0",
+            "animation_end": "597.0"
+        },
+        {
+            "index": 2,
+            "caption": "Luca picks up WIF extender",
+            "transcript": "Here we've got Luca Parmatano as EV one, and Drew Morgan as EV two. Luca is here picking up the WIF extender To install on the end of the can to arm too.",
+            "animation_start": "597.0",
+            "animation_end": "603.0"
+        },
+        {
+            "index": 3,
+            "caption": "Luca translates to arm",
+            "transcript": "Here Lucas proceeding up to meet the Canon arm too, where he will start configuring that for the start of his repair series.",
+            "animation_start": "610.0",
+            "animation_end": "619.0"
+        },
+        {
+            "index": 4,
+            "caption": "Drew translates to express logistics carrier 2",
+            "transcript": "From here, Drew will pass by, Luca, head all the way out to AMS to the Express Logistics carrier too, where he will start setting up bags.",
+            "animation_start": "619.0",
+            "animation_end": "628.0"
+        },
+        {
+            "index": 5,
+            "caption": "Drew travels between airlock and express logistics carrier",
+            "transcript": "From here, Drew will pass by, Luca, head all the way out to AMS to the Express Logistics carrier too, where he will start setting up bags. Drew will make several trips between the airlock and the express logistics carrier in order to bring all the tools for the repair out to the worksite and have them staged and ready for what Luca's arrival with the SSRMS.",
+            "animation_start": "628.0",
+            "animation_end": "640.0"
+        },
+        {
+            "index": 6,
+            "caption": "Luca installs extender and articulating portable foot restraint",
+            "transcript": "So here, Luca will be setting up that with extender, followed by the articulating portable foot restraint, which will give him the reach necessary to on the repairs on AMS since there are no handrails currently installed on that payload for repair activities.",
+            "animation_start": "640.0",
+            "animation_end": "659.0"
+        },
+        {
+            "index": 7,
+            "caption": "Luca flies a sweeping range of motion and takes videos",
+            "transcript": "Once Luca has his tool bag and is on the end of the SSRMS, he will fly a sweeping range of motion that will take him well over top of the ISS, where he'll get a great view of the space station, and then it will take lots of video and photos that we can use to keep an eye on the state of the station.",
+            "animation_start": "659.0",
+            "animation_end": "677.0"
+        },
+        {
+            "index": 8,
+            "caption": "Arm is streched out and wrapped around the AMS",
+            "transcript": "Once Luca has his tool bag and is on the end of the SSRMS, he will fly a sweeping range of motion that will take him well over top of the ISS, where he'll get a great view of the space station, and then it will take lots of video and photos that we can use to keep an eye on the state of the station. As the arm is stretched out and wrapped around the AMS, there will be several places of tight clearances. The arm operators will have to negotiate for Lucas at the, aft and outboard work site here.",
+            "animation_start": "677.0",
+            "animation_end": "688.0"
+        },
+        {
+            "index": 9,
+            "caption": "Arm wraps around the backside of AMS and brings Luca to worksite",
+            "transcript": "The arm operators will have to negotiate for Lucas at the, aft and outboard work site here. You can see him flying up over top of the dress where the arm will wrap around the backside of AMS and push him in between AMS and the ELC in order to reach the worksite to repair AMS' thermal pump system.",
+            "animation_start": "688.0",
+            "animation_end": "709.0"
+        },
+        {
+            "index": 10,
+            "caption": "Luca and Drew remove debris shield",
+            "transcript": "Once Luca is at that worksite, he'll be removing a debris shield working with Drew, but to access the primary work area of the AMS repair. Here, they're installing a handling aid that'll be used to handle this debris shield after it's removed. There are about a dozen non captive fasteners that'll be removed in order to release this debris shield. Several will be under these captured cages, and they'll be trapped that way, and several will be released using capture forks to be put into a separate capture block so that they are managed and not released as fun.",
+            "animation_start": "709.0",
+            "animation_end": "742.0"
+        },
+        {
+            "index": 11,
+            "caption": "Luca hands off the debris shield to Drew",
+            "transcript": "Once all the faster to release for the debris shield, Luca will hand it off to Drew who will be in his own foot restraint.",
+            "animation_start": "742.0",
+            "animation_end": "747.0"
+        },
+        {
+            "index": 12,
+            "caption": "Drew jettisons the debris shield",
+            "transcript": "Once all the faster to release for the debris shield, Luca will hand it off to Drew who will be in his own foot restraint. And he will face aft on the ISS and jettison that debris shield. Due to its large size, it is not easy to put that back at the airlock. So jettison is the optimum choice for that shield.",
+            "animation_start": "747.0",
+            "animation_end": "760.0"
+        },
+        {
+            "index": 13,
+            "caption": "Luca and Drew install handrails",
+            "transcript": "Once the debris shield has been removed in Jettison, Luca and Drew will work together to install other handrails, Here, we've installed the first, three handrails, the diado beam handrail, then, Drew will hand over two more handrails that Luca will install that they are the vacuum case handrails. This will allow Luca drew better access and mobility at the worksite in preparation for the second through fourth EVA of the series.",
+            "animation_start": "760.0",
+            "animation_end": "784.0"
+        },
+        {
+            "index": 14,
+            "caption": "Luca and Drew go back to airlock",
+            "transcript": "Following the handrail installation, crews will close-up their tool bags and make their way back to the airlock. Herraluka is on the end of the arm. It will repeat his translation on the end of the arm. Back to the front of trust. While he's flying on the arm, Drew will translate around the outside of ELC, and translate back under the mobile transporter back to the airlock before the end of the first of the AMS repair EVAs. That's a a snapshot of, today's initial spacewalk, the first of at least four spacewalks to repair the alpha magnetic spectrometer.",
+            "animation_start": "784.0",
+            "animation_end": "811.0"
+        }
+    ],
+    "11222019": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "Move to first worksite",
+            "transcript": "Here we have Luca and Drew prepared for the second of the AMS repair EVA following a very successfully VIN number one. Here we have Luca heading up the Cetus burden with the SSRMS to, prepare for his flight to AMS. While Drew will be heading up to Zetas Per with, tool bag, and he'll be heading out directly to ELC to pair his worksite and to assess Luca in their EVA two repair work. Luca has to, pitch down the, with extender here. He left the APF Farm with extender on the end of the arm, on the end of the last EVA to save time on this one, so he'll get the right setting set up here, ingress the APFR and prepare for the flight over to AMS.",
+            "animation_start": "552.0",
+            "animation_end": "580.0"
+        },
+        {
+            "index": 2,
+            "caption": "Luca sets up and enters foot restraint on robotic arm",
+            "transcript": "He left the APF Farm with extender on the end of the arm, on the end of the last EVA to save time on this one, so he'll get the right setting set up here, ingress the APFR and prepare for the flight over to AMS. Once ingressed into the turn the end of the can to arm too.",
+            "animation_start": "580.0",
+            "animation_end": "609.0"
+        },
+        {
+            "index": 3,
+            "caption": "Robotic arm takes Luca to worksite",
+            "transcript": "Once ingressed into the turn the end of the can to arm too. There'll be another big maneuver over top station with great views as Luca heads to the Zenaside of AMS this time to work out to know line, covering some power cables. The SSR mess will slide Luca in between ELC two and AMS, and, he'll get to work with some Russian cutting tools to open up the MLI of the multi layer insulation in this area.",
+            "animation_start": "609.0",
+            "animation_end": "635.0"
+        },
+        {
+            "index": 4,
+            "caption": "Luca configures cables",
+            "transcript": "He'll be accessing, two power cables that were on AMS for other hardware, and, we'll utilize those to connect up to a set of EVA cables to prepare for the pump box arrival on EVA number three. Once those cables are temp stowed, it'll open up yet more Emily in that area to prepare for mechanical attached device or mad install on the beam.",
+            "animation_start": "638.0",
+            "animation_end": "658.0"
+        },
+        {
+            "index": 5,
+            "caption": "Luca open more of the MLI to prepare for MAD install",
+            "transcript": "Once those cables are temp stowed, it'll open up yet more Emily in that area to prepare for mechanical attached device or mad install on the beam. This mad will, be utilized on EVA three for the mechanical attachment of the pump box.",
+            "animation_start": "658.0",
+            "animation_end": "665.0"
+        },
+        {
+            "index": 6,
+            "caption": "Luca install MAD",
+            "transcript": "This mad will, be utilized on EVA three for the mechanical attachment of the pump box. So following this task, the power, data, and mechanical components will all be ready for that pump box to come right out on the beginning of VVA three.",
+            "animation_start": "665.0",
+            "animation_end": "678.0"
+        },
+        {
+            "index": 7,
+            "caption": "Robotic arm takes Luca to next worksite",
+            "transcript": "Completing that work, the SSRMS maneuver Luca from the Xena side back a little bit nadir in between e s ELC and AMS to the same works that he was at during EVA one.",
+            "animation_start": "678.0",
+            "animation_end": "691.0"
+        },
+        {
+            "index": 8,
+            "caption": "Luca cut and cap tubes",
+            "transcript": "From here, he will use a, a large set of, rough cutters to cut a fill line that will vent out the remaining CO2 in the cooling system allowing for the fine detail it cuts, that will be utilized to connect up the system on k three. At the vertical support beam worksite, he'll have six tubes that he'll have to cut. Those six tubes, with six of eight tubes that'll be connected to the new pump system on a subsequent EVA. Those tubes as their cut will be capped and identify with tube numbers.",
+            "animation_start": "691.0",
+            "animation_end": "720.0"
+        },
+        {
+            "index": 9,
+            "caption": "Luca open MLI and install tube support bracket",
+            "transcript": "From there, the SSR missile for Luca below AMS for the final two cuts. It'll open up the MLI that works at install a tube support bracket, which will protect, the other sensitive AMS hardware in this area while he's working here, and finish up with the two remaining cuts that will also be capped.",
+            "animation_start": "720.0",
+            "animation_end": "734.0"
+        },
+        {
+            "index": 10,
+            "caption": "Luca cut and cap final 2 tubes",
+            "transcript": "It'll open up the MLI that works at install a tube support bracket, which will protect, the other sensitive AMS hardware in this area while he's working here, and finish up with the two remaining cuts that will also be capped. With eight of eight tubes now, cut and capped, the SSRMS will maneuver Luca back towards the face one of the trust where he got on, and he'll egress the SSR mess there and head back to meet her lock after a successful EVA number two.",
+            "animation_start": "734.0",
+            "animation_end": "750.0"
+        },
+        {
+            "index": 11,
+            "caption": "Robotic arm returns Luca to original worksite",
+            "transcript": "With eight of eight tubes now, cut and capped, the SSRMS will maneuver Luca back towards the face one of the trust where he got on, and he'll egress the SSR mess there and head back to meet her lock after a successful EVA number two. While he's riding back on the SSR will be cleaning up the bags that have been stowed on ELC two, preparing that work site for the in between time between the EVAs and then translating back under the mobile transporter and back to the airlock and stuff. This will set up the AMS and the station to bring out the new pump system at the beginning of VVA three and have it installed, ready for fluid, power and data connections.",
+            "animation_start": "750.0",
+            "animation_end": "775.0"
+        },
+        {
+            "index": 12,
+            "caption": "Luca exits robotic arm",
+            "transcript": "This will set up the AMS and the station to bring out the new pump system at the beginning of VVA three and have it installed, ready for fluid, power and data connections.",
+            "animation_start": "775.0",
+            "animation_end": "781.0"
+        },
+        {
+            "index": 13,
+            "caption": "Luca returns to airlock",
+            "transcript": "",
+            "animation_start": "781.0",
+            "animation_end": "783.0"
+        },
+        {
+            "index": 14,
+            "caption": "Drew returns to airlock",
+            "transcript": "",
+            "animation_start": "783.0",
+            "animation_end": "788.0"
+        }
+    ],
+    "12022019": [
+        {
+            "index": 0,
+            "caption": "Irrelevant",
+            "transcription": "The mission control center, noisy shots (e.g. blue screen), or tasks not planned for the spacewalk."
+        },
+        {
+            "index": 1,
+            "caption": "Luca & Drew exit airlock with pump system",
+            "transcript": "Looka Powertono and Drew Morgan will once again be going out on AMS EVA. This will be EVA number three in the repair sequence. This is the EVA with a new AMS pump system will be brought out of the airlock and installed on AMS itself. Pump system is rather large, and it cannot be transported by a single crew member.",
+            "animation_start": "737.0",
+            "animation_end": "756.0"
+        },
+        {
+            "index": 2,
+            "caption": "Luca & Drew take pump system to external support platform 2",
+            "transcript": "Pump system is rather large, and it cannot be transported by a single crew member. Therefore, both crew work together handing off the pump system, one to the other as they inchworm their way from the airlock all the way to the forward side of the external support platform number two.",
+            "animation_start": "756.0",
+            "animation_end": "769.0"
+        },
+        {
+            "index": 3,
+            "caption": "Luca enter foot restraint on robotic arm",
+            "transcript": "The Canada arm two or SSRMS will meet the crew there. At what point Drew will take control of the pump's them while Luca ingresses the articulating portable foot strain on the SSR mess. Once in the foot restraint, Luca will take, the pump system and prepare for the flight of the Canada arm too from ESP two all the way over top of the trust to AMS.",
+            "animation_start": "769.0",
+            "animation_end": "783.0"
+        },
+        {
+            "index": 4,
+            "caption": "Drew hands Luca the pump system",
+            "transcript": "Once in the foot restraint, Luca will take, the pump system and prepare for the flight of the Canada arm too from ESP two all the way over top of the trust to AMS. In a similar manner to the trajectory taken on EVS one and two.",
+            "animation_start": "783.0",
+            "animation_end": "792.0"
+        },
+        {
+            "index": 5,
+            "caption": "Robotic arm takes Luca to AMS",
+            "transcript": "In a similar manner to the trajectory taken on EVS one and two. While he's riding to Candidarm two, Drew will translate hand over hand across the truss and up to ELC two with bags to prepare the worksite to meet Luca there for the installation of the pump system.",
+            "animation_start": "792.0",
+            "animation_end": "805.0"
+        },
+        {
+            "index": 6,
+            "caption": "Drew move to ELC 2",
+            "transcript": "While he's riding to Candidarm two, Drew will translate hand over hand across the truss and up to ELC two with bags to prepare the worksite to meet Luca there for the installation of the pump system.",
+            "animation_start": "805.0",
+            "animation_end": "818.0"
+        },
+        {
+            "index": 7,
+            "caption": "Luca & Drew install pump system",
+            "transcript": "Drew will provide eyes on to assist Luca in aligning system and install it onto AMS into the mechanical attachment device.",
+            "animation_start": "818.0",
+            "animation_end": "829.0"
+        },
+        {
+            "index": 8,
+            "caption": "Luca & Drew connect power and data cables",
+            "transcript": "Once the system has been powered on, it'll be prepared for the fluid connections, which Luca will do from a different worksite on AMS.",
+            "animation_start": "842.0",
+            "animation_end": "858.0"
+        },
+        {
+            "index": 9,
+            "caption": "Robotic arm takes Luca to aft side",
+            "transcript": "Once the system has been powered on, it'll be prepared for the fluid connections, which Luca will do from a different worksite on AMS. The SARS will carry him from the zenith side to the aft side here. And he slides in to get ready for those further connections.",
+            "animation_start": "858.0",
+            "animation_end": "871.0"
+        },
+        {
+            "index": 10,
+            "caption": "Luca connect six fluid connections",
+            "transcript": "There'll be six fluid connections completed here at this VSP work site using, commercial off the shelf swages. Those swages have any encased in a, custom fitting that the engineering team to develop to allow the astronauts pressurized gloves to operate the small ferrals of the swage.",
+            "animation_start": "871.0",
+            "animation_end": "892.0"
+        },
+        {
+            "index": 11,
+            "caption": "Robotic arm takes Luca to underside of AMS",
+            "transcript": "Once those six wages are completed, the SSRMS will take Luca to the underside of AMS for two final swages.",
+            "animation_start": "892.0",
+            "animation_end": "900.0"
+        },
+        {
+            "index": 12,
+            "caption": "Luca & Drew complete final 2 suages",
+            "transcript": "Once those six wages are completed, the SSRMS will take Luca to the underside of AMS for two final swages. Drew will have to pass the tubes from the new pump system down through a passageway in AMS to a Luca to connect those on the nadir side here. While at that nadir worksite, Luca will have to be mindful of several resorts to AMS and tight clearances while he switches those tubes. Once complete with the eight swages, this will allow the engineering teams to pressurize the system. And with the crew score complete for the day, Luca will ride this sermons back to the forward side of VSP too.",
+            "animation_start": "900.0",
+            "animation_end": "939.0"
+        },
+        {
+            "index": 13,
+            "caption": "Robotic arm takes Luca to ESP 2",
+            "transcript": "And with the crew score complete for the day, Luca will ride this sermons back to the forward side of VSP too. Amber air for airlock ingress.",
+            "animation_start": "939.0",
+            "animation_end": "959.0"
+        },
+        {
+            "index": 14,
+            "caption": "Drew bring bags back to airlock",
+            "transcript": "While Lucas riding the arm, Drew, we'll be translating back and starting to bring bags back inside, that have been left out on the ELC over the course of the EV series. And with both crew back at the airlock, that'll complete EVA three of the AMS repair.",
+            "animation_start": "959.0",
+            "animation_end": "980.0"
+        }
+    ]
+}
