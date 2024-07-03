@@ -23,7 +23,7 @@ python download_videos.py
 
 ### Videos
 
-The videos are downloaded into `data/videos`. There are in total 18 videos and each one is the recording of a spacewalk mission. All the videos are at `30 FPS` with frame size ``720 x 1280``.
+The videos are downloaded into `data/videos`. There are in total 18 videos and each one is the recording of a spacewalk mission. All the videos are at `29.97 FPS` with frame size ``720 x 1280``.
 
 ### Transcripts
 The transcripts of the videos are in [`data/transcripts`](data/transcripts). They contain the global start and end times of each sentence in seconds. Please use `encoding='cp1252'` when reading them.
@@ -61,7 +61,8 @@ Given a query timestamp $t$ in a video, step recognition aims to determine the s
 
 | Field Name         | Description                                            |
 |--------------------|--------------------------------------------------------|
-| frame_index        | The frame index sampled as query timestamp $t$.        |
+| timestamp          | The timestamp sampled as query timestamp $t$.        |
+| frame_index        | The frame index of the query timestamp             |
 | label              | The ground truth label of the sample.                  |
 | id                 | A unique ID of the sample.                             |
 
