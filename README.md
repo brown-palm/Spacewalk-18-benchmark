@@ -62,7 +62,7 @@ Given a query timestamp $t$ in a video, step recognition aims to determine the s
 | Field Name         | Description                                            |
 |--------------------|--------------------------------------------------------|
 | timestamp          | The timestamp sampled as query timestamp $t$.        |
-| frame_index        | The frame index of the query timestamp             |
+| frame_index        | The frame index of the query timestamp.             |
 | label              | The ground truth label of the sample.                  |
 | id                 | A unique ID of the sample.                             |
 
