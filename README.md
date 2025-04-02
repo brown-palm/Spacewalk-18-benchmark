@@ -2,11 +2,11 @@
 
 ![teaser](assets/teaser.gif)
 
-<h3 align="center">
+<h2 align="center">
 Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains
-</h3>
+</h2>
 
-<h5 align="center">
+<h4 align="center">
 
 [Zitian Tang*](https://zitiantang.github.io/), [Rohan Myer Krishnan*](https://scholar.google.com/citations?user=koxiPYIAAAAJ), [Zhiqiu Yu](), [Chen Sun](https://chensun.me/index.html) (*Equal Contribution)
 
@@ -15,7 +15,7 @@ Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understa
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/brown-palm/Spacewalk-18-benchmark/blob/main/LICENSE)
 <br>
 
-</h5>
+</h4>
 
 
 ## Download Spacewalk-18
