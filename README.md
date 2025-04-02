@@ -2,8 +2,17 @@
 
 ![teaser](assets/teaser.gif)
 
-**Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding** [[Paper](https://arxiv.org/abs/2311.18773)][[Project Page](https://brown-palm.github.io/Spacewalk-18/)]<br>
-[Rohan Myer Krishnan*](https://scholar.google.com/citations?user=koxiPYIAAAAJ), [Zitian Tang*](https://zitiantang.github.io/), [Zhiqiu Yu](), [Chen Sun](https://chensun.me/index.html) (*Equal Contribution)
+<h5 align="center">
+
+**Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains** <br>
+[Zitian Tang*](https://zitiantang.github.io/), [Rohan Myer Krishnan*](https://scholar.google.com/citations?user=koxiPYIAAAAJ), [Zhiqiu Yu](), [Chen Sun](https://chensun.me/index.html) (*Equal Contribution)
+
+[![Project Page](https://img.shields.io/badge/Project_Page-green)](https://github.com/brown-palm/Spacewalk-18-benchmark/blob/main/LICENSE)
+[![arXiv](https://img.shields.io/badge/Arxiv-2311.18773-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2311.18773)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/brown-palm/Spacewalk-18-benchmark/blob/main/LICENSE)
+<br>
+
+</h5>
 
 ## Download Spacewalk-18
 
@@ -52,7 +61,7 @@ We annotate the spacewalk recordings by segmenting them into the steps. The anno
 | label              | The step index that the segment belongs to. `-1` indicates unavailable.  |
 
 ## Tasks on Spacewalk-18
-We have two tasks on Spacewalk-18 benchmark - [step recognition](#Task-1---Step-Recognition) and [intra-video retrieval](#Task-2---Intra-video-Retrieval). They share the same training, validation, and test video splits, which are listed in [`tasks/split.json`](tasks/split.json).
+We have two tasks on Spacewalk-18 benchmark - [step recognition](#Task-1---Step-Recognition) and [video question answering](#Task-2---Video-Question-Answering). The training, validation, and test video splits are listed in [`tasks/split.json`](tasks/split.json). The step recognition task includes all three splits while the video question answering is for test purpose only.
 
 ![task_img](assets/task_img.png)
 
@@ -69,7 +78,7 @@ Given a query timestamp $t$ in a video, step recognition aims to determine the s
 Our tasks enables model evaluation under varying temporal context window lengths $w$. In this setting, a model needs to determine frame $t$'s corresponding step given the video clip $[t-w/2, t+w/2]$. We provide the code to calculate the video start and end times and collect the transcripts in the clip for any specified context length $w$. See [`construct_context_window.ipynb`](https://github.com/brown-palm/Spacewalk-18-benchmark/blob/main/tasks/step_recognition/construct_context_window.ipynb).
 
 #### Evaluation Metrics
-We use accuracy and mAP to evaluate the performance on the step recognition task. The code is in [`evaluation.py`](tasks/step_recognition/evaluation.py). To use it, please organize your predictions in a JSON file in the following format:
+We use accuracy, mAP, and IoU to evaluate the performance on the step recognition task. The code is in [`evaluation.py`](tasks/step_recognition/evaluation.py). To use it, please organize your predictions in a JSON file in the following format:
 ```
 {
       "03152022": [
@@ -90,40 +99,37 @@ We use accuracy and mAP to evaluate the performance on the step recognition task
 ```
 The $i$-th item under each video ID is your prediction to the $i$-th sample. `prediction` is a predicted label used to compute accuracy. `score` is a list of scores for each category used to compute mAP. The length of `score` should be the same as the number of categories in the corresponding video. If your method does not provide category scores, you can omit `score` in your file.
 
-You can use `--gt` to specify the ground truth file and `--pred` to specify your prediction file. For example, to evaluate your predictions on the validation set, run
+You can use `--gt` to specify the ground truth file and `--pred` to specify your prediction file. For example, to evaluate your predictions on the test set, run
 ```
 python evaluation.py \
---gt val.json \
+--gt test.json \
 --pred YOUR_PREDICTION_FILE.json
 ```
 
-### Task 2 - Intra-video Retrieval
-Given a query timestamp $t_q$ and two candidate timestamps $t_1$ and $t_2$, intra-video retrieval aims to determine which candidate comes from the same step as the query. The training, validation, and test samples are in `tasks/intra-video_retrieval/*.json`. We show in [`construct_samples.ipynb`](https://github.com/brown-palm/Spacewalk-18-benchmark/blob/main/tasks/intra-video_retrieval/construct_samples.ipynb) how they are constructed. Again, we encourage you to go beyond the provided training samples to develop your model.
+### Task 2 - Video Question Answering
+The video question answering task includes 376 hour-long multi-choice questions. The videos are one-hour segments of the spacewalk recordings. The questions are available in [`tasks/question_answering/test.json`](https://github.com/brown-palm/Spacewalk-18-benchmark/blob/main/tasks/question_answering/test.json). While only a test set is provided, you are encouraged to leverage the videos in the training set to adapt your models to the spacewalk domain.
 
 | Field Name               | Description                                          |
 |--------------------------|------------------------------------------------------|
-| query_frame_index        | The frame index of the query timestamp $t_q$.        |
-| candidate_frame_indices  | A list of length 2. The frame indices of the candidate timestamps $t_1$ and $t_2$.        |
-| label                    | The ground truth label with value `0` or `1` indicating which candidate belongs to the same step as the query.       |
-| id                       | A unique ID of the sample.                           |
-
-With a temporal context window length $w$, the model can access to video clips $[t_q-w/2, t_q+w/2]$, $[t_1-w/2, t_1+w/2]$, and $[t_2-w/2, t_2+w/2]$. We provide the code to calculate the video start and end times and collect the transcripts for any specified context length $w$. See [`construct_context_window.ipynb`](https://github.com/brown-palm/Spacewalk-18-benchmark/blob/main/tasks/intra-video_retrieval/construct_context_window.ipynb).
+| question_id              | A unique ID of the question. |
+| video_id                 | The video ID of the question. |
+| video_start              | The global video start time of the video segment of the question. |
+| video_end                | The global video end time of the video segment of the question. |
+| question    | The question. |
+| options     | A list of four options. |
+| answer      | The answer, which is the index of the correct option. |
+| type        | The question type. We include five types of questions. |
 
 #### Evaluation Metrics
-We use accuracy evaluate the performance on the intra-video retrieval task. The code is in [`evaluation.py`](tasks/intra-video_retrieval/evaluation.py). Please organize your predictions in a JSON file in the following format:
+We use accuracy to evaluate the performance on the video qeustion answering task. The code is in [`evaluation.py`](tasks/question_answering/evaluation.py). Please organize your predictions in a JSON file, which is a list like:
 ```
-{
-      "03152022": [1, 0, 1, 1, ..., 1],
-      "11152022": [1, 0, 0, 1, ..., 0],
-      ... ...
-}
+[1, 0, 3, ..., 2]
 ```
-The list under each video ID is your predictions to the samples. Their values should be either `0` or `1`.
 
-You can use `--gt` to specify the ground truth file and `--pred` to specify your prediction file. For example, to evaluate your predictions on the validation set, run
+You can use `--gt` to specify the ground truth file and `--pred` to specify your prediction file. For example,
 ```
 python evaluation.py \
---gt val.json \
+--gt test.json \
 --pred YOUR_PREDICTION_FILE.json
 ```
 
@@ -131,10 +137,10 @@ python evaluation.py \
 
 We will be happy if you find Spacewalk-18 useful. Please cite it using this BibTeX:
 ```
-@misc{krishnan2024spacewalk18,
-      title={Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding}, 
-      author={Rohan Myer Krishnan and Zitian Tang and Zhiqiu Yu and Chen Sun},
-      year={2024},
+@misc{krishnan2023spacewalk18,
+      title={Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains}, 
+      author={Zitian Tang and Rohan Myer Krishnan and Zhiqiu Yu and Chen Sun},
+      year={2023},
       publisher={arXiv:2311.18773}
 }
 ```

@@ -3,6 +3,7 @@ import argparse
 import json
 
 steps = json.load(open('../../data/steps.json'))
+annotations = json.load(open('../../data/annotation.json'))
 n_labels = {date: len(v) for date, v in steps.items()}
 
 def mAP(prob, label):
@@ -27,7 +28,72 @@ def mAP(prob, label):
         mx = max(mx, prs[i][1])
     return ret
 
+def list_to_intervals(preds):
+    res = {}
+    for date in preds:
+        ST = annotations[date][1]['frame_start']
+        ED = annotations[date][-2]['frame_end']
+        for i, pred in enumerate(preds[date]):
+            if i == 0:
+                res[date] = [{
+                    'frame_start': ST,
+                    'frame_end': (pred['frame_index'] + preds[date][i+1]['frame_index']) / 2,
+                    'pred': pred['prediction']
+                }]
+            elif i + 1 == len(preds[date]):
+                res[date].append({
+                    'frame_start': (pred['frame_index'] + preds[date][i-1]['frame_index']) / 2,
+                    'frame_end': ED,
+                    'pred': pred['prediction']
+                })
+            else:
+                res[date].append({
+                    'frame_start': (pred['frame_index'] + preds[date][i-1]['frame_index']) / 2,
+                    'frame_end': (pred['frame_index'] + preds[date][i+1]['frame_index']) / 2,
+                    'pred': pred['prediction']
+                })
+    return res
+
+def IoU(preds, labels):
+    for date in preds:
+        assert len(preds[date]) == len(labels[date])
+        for i in range(len(preds[date])):
+            preds[date][i]['frame_index'] = labels[date][i]['frame_index']
+    preds = list_to_intervals(preds)
+
+    IoU_per_date = []
+    for date in preds:
+        n_steps = max([x['label'] for x in annotations[date]]) + 1
+        IoUs = []
+        for step_id in range(n_steps):
+            gt_len = 0
+            for seg in annotations[date]:
+                if seg['label'] == step_id:
+                    gt_len += seg['frame_end'] - seg['frame_start']
+            pred_len = 0
+            for seg in preds[date]:
+                if seg['pred'] == step_id:
+                    pred_len += seg['frame_end'] - seg['frame_start']
+            intersection = 0
+            for seg in annotations[date]:
+                if seg['label'] != step_id: continue
+                for pred in preds[date]:
+                    if pred['pred'] != step_id: continue
+                    if pred['frame_end'] < seg['frame_start'] or pred['frame_start'] > seg['frame_end']:
+                        continue
+                    L = max(pred['frame_start'], seg['frame_start'])
+                    R = min(pred['frame_end'], seg['frame_end'])
+                    intersection += R - L
+            IoUs.append(intersection / (gt_len + pred_len - intersection))
+        IoU_per_date.append(np.mean(IoUs))
+    IoU_ = np.mean(IoU_per_date).item()
+
+    return IoU_
+
 def cal_metrics(pred, labels):
+    # IoU
+    IoU_ = IoU(pred, labels)
+
     # mAP
     if 'score' in pred[list(pred.keys())[0]][0]:
         mAP_ = []
@@ -39,7 +105,7 @@ def cal_metrics(pred, labels):
                     [1 if x['label'] == i else 0 for x in labels[date]]
                 ))
             mAP_.append(np.mean(tmp))
-        mAP_ = np.mean(mAP_)
+        mAP_ = np.mean(mAP_).item()
     else:
         mAP_ = 'N/A'
 
@@ -58,8 +124,9 @@ def cal_metrics(pred, labels):
         accs.append(acc)
 
     result = {
-            'Accuracy': np.array(accs).mean(),
-            'mAP': mAP_
+            'Accuracy': np.array(accs).mean().item(),
+            'mAP': mAP_,
+            'IoU': IoU_
         }
 
     return result
