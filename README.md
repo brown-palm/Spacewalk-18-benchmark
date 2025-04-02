@@ -117,8 +117,8 @@ The video question answering task includes 376 hour-long multi-choice questions.
 |--------------------------|------------------------------------------------------|
 | question_id              | A unique ID of the question. |
 | video_id                 | The video ID of the question. |
-| video_start              | The global video start time of the video segment of the question. |
-| video_end                | The global video end time of the video segment of the question. |
+| video_start              | The global video start time in seconds of the video segment of the question. |
+| video_end                | The global video end time in seconds of the video segment of the question. |
 | question    | The question. |
 | options     | A list of four options. |
 | answer      | The answer, which is the index of the correct option. |
