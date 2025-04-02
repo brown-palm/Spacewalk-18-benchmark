@@ -10,7 +10,7 @@ Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understa
 
 [Zitian Tang*](https://zitiantang.github.io/), [Rohan Myer Krishnan*](https://scholar.google.com/citations?user=koxiPYIAAAAJ), [Zhiqiu Yu](), [Chen Sun](https://chensun.me/index.html) (*Equal Contribution)
 
-[![Project Page](https://img.shields.io/badge/Project_Page-green)](https://github.com/brown-palm/Spacewalk-18-benchmark/blob/main/LICENSE)
+[![Project Page](https://img.shields.io/badge/Project_Page-green)](https://brown-palm.github.io/Spacewalk-18/)
 [![arXiv](https://img.shields.io/badge/Arxiv-2311.18773-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2311.18773)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/brown-palm/Spacewalk-18-benchmark/blob/main/LICENSE)
 <br>
