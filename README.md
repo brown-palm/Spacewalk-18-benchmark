@@ -17,6 +17,18 @@ Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understa
 
 </h4>
 
+## 📰 News
+
+- **November, 2025** — Spacewalk-18 has been accepted by **WACV 2026**! 🎉
+
+
+## ⚠️ Update Notice
+We have corrected the label offset issue in video 10062019. As it is in the training set, all the zero-shot evaluation results would not be affacted.
+
+If you downloaded the dataset before **November 25, 2025**, please update the following files:
+- `data/steps.csv`
+- `data/annotation.json`
+- `tasks/step_recognition/*.json`
 
 ## Download Spacewalk-18
 
@@ -141,11 +153,11 @@ python evaluation.py \
 
 We will be happy if you find Spacewalk-18 useful. Please cite it using this BibTeX:
 ```
-@misc{krishnan2023spacewalk18,
-      title={Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains}, 
-      author={Zitian Tang and Rohan Myer Krishnan and Zhiqiu Yu and Chen Sun},
-      year={2023},
-      publisher={arXiv:2311.18773}
+@inproceedings{tang2026spacewalk18,
+    title={Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains}, 
+    author={Zitian Tang and Rohan Myer Krishnan and Zhiqiu Yu and Chen Sun},
+    booktitle={WACV},
+    year={2026}
 }
 ```
 
